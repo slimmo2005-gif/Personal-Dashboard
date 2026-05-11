@@ -1,0 +1,42 @@
+{
+  "updatedAt": "2026-05-11T08:00:00.000Z",
+  "quotes": [
+    { "symbol": "NAB.AX", "name": "National Australia Bank", "price": 34.12, "changePct": 0.42, "currency": "AUD" },
+    { "symbol": "WES.AX", "name": "Wesfarmers", "price": 62.55, "changePct": -0.18, "currency": "AUD" },
+    { "symbol": "COL.AX", "name": "Coles Group", "price": 18.9, "changePct": 0.05, "currency": "AUD" }
+  ],
+  "property": {
+    "address": "65 Truman St, South Kingsville VIC",
+    "estimateAud": 920000,
+    "sourceNote": "Illustrative estimate — replace via scripts/PROPERTY_VALUE_AUD or a valuation API."
+  },
+  "history": {
+    "NAB.AX": [
+      { "date": "2026-02-10", "value": 32.1 },
+      { "date": "2026-02-24", "value": 32.8 },
+      { "date": "2026-03-10", "value": 33.4 },
+      { "date": "2026-03-24", "value": 33.9 },
+      { "date": "2026-04-07", "value": 34.0 },
+      { "date": "2026-04-21", "value": 33.6 },
+      { "date": "2026-05-05", "value": 34.12 }
+    ],
+    "WES.AX": [
+      { "date": "2026-02-10", "value": 61.2 },
+      { "date": "2026-02-24", "value": 61.9 },
+      { "date": "2026-03-10", "value": 62.4 },
+      { "date": "2026-03-24", "value": 62.1 },
+      { "date": "2026-04-07", "value": 62.7 },
+      { "date": "2026-04-21", "value": 62.3 },
+      { "date": "2026-05-05", "value": 62.55 }
+    ],
+    "COL.AX": [
+      { "date": "2026-02-10", "value": 18.4 },
+      { "date": "2026-02-24", "value": 18.5 },
+      { "date": "2026-03-10", "value": 18.7 },
+      { "date": "2026-03-24", "value": 18.6 },
+      { "date": "2026-04-07", "value": 18.85 },
+      { "date": "2026-04-21", "value": 18.82 },
+      { "date": "2026-05-05", "value": 18.9 }
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "updatedAt": "2026-05-11T08:00:00.000Z",
+  "reddit": [
+    {
+      "id": "r1",
+      "title": "RBA minutes hint at steady rates as inflation cools",
+      "url": "https://example.com/r1",
+      "source": "r/ausfinance",
+      "publishedAt": "2026-05-10T22:10:00.000Z",
+      "topics": ["macro", "rates"]
+    },
+    {
+      "id": "r2",
+      "title": "Mid-term polling averages tighten in swing states",
+      "url": "https://example.com/r2",
+      "source": "r/neutralpolitics",
+      "publishedAt": "2026-05-10T18:40:00.000Z",
+      "topics": ["elections", "us"]
+    }
+  ],
+  "rss": [
+    {
+      "id": "x1",
+      "title": "Gold holds gains as USD slips",
+      "url": "https://example.com/x1",
+      "source": "Reuters Commodities",
+      "publishedAt": "2026-05-11T06:05:00.000Z",
+      "topics": ["commodities"]
+    },
+    {
+      "id": "x2",
+      "title": "Victorian budget infrastructure spend rises",
+      "url": "https://example.com/x2",
+      "source": "ABC News",
+      "publishedAt": "2026-05-11T04:55:00.000Z",
+      "topics": ["vic", "fiscal"]
+    }
+  ],
+  "trendingTopics": [
+    { "topic": "rates", "score": 94 },
+    { "topic": "housing", "score": 81 },
+    { "topic": "elections", "score": 76 },
+    { "topic": "commodities", "score": 62 }
+  ],
+  "summaries": [
+    {
+      "topicGroup": "Macro + FX",
+      "bullets": [
+        "AUD drifted higher against USD on softer US yields (mock).",
+        "Energy complex mixed; Brent spot below near-dated futures (mock)."
+      ],
+      "asOf": "2026-05-11T07:30:00.000Z"
+    },
+    {
+      "topicGroup": "Geopolitics",
+      "bullets": [
+        "Polling aggregates show narrow bands — treat as non-predictive stubs.",
+        "Wire your preferred tracker for Ukraine control maps."
+      ],
+      "asOf": "2026-05-11T07:30:00.000Z"
+    }
+  ],
+  "savedGroups": [
+    { "id": "g1", "name": "Australia macro", "topics": ["rba", "cpi", "aud", "labour"] },
+    { "id": "g2", "name": "Elections desk", "topics": ["polls", "fivethirtyeight", "betting"] }
+  ]
+}

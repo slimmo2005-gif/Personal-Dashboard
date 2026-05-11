@@ -1,0 +1,23 @@
+{
+  "updatedAt": "2026-05-11T08:00:00.000Z",
+  "ukraine": {
+    "headline": "Net territorial change (30d) — illustrative series for UI wiring",
+    "netSqKm30d": -120,
+    "note": "Replace with your preferred conflict tracker / GIS pipeline output."
+  },
+  "trumpApproval": { "value": 44.2, "source": "Aggregate polling (mock)", "asOf": "2026-05-09" },
+  "usMidterms": [
+    { "chamber": "Senate control", "partyProb": { "dem": 0.46, "gop": 0.52 } },
+    { "chamber": "House control", "partyProb": { "dem": 0.38, "gop": 0.59 } }
+  ],
+  "auFederalPoll": [
+    { "party": "ALP", "tpp": 51 },
+    { "party": "L/NP", "tpp": 49 }
+  ],
+  "vicStatePoll": [
+    { "party": "ALP", "primary": 34 },
+    { "party": "Coalition", "primary": 28 },
+    { "party": "Greens", "primary": 12 },
+    { "party": "Ind/Oth", "primary": 26 }
+  ]
+}
