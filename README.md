@@ -46,9 +46,11 @@ flowchart LR
 │   ├── data/              # Committed JSON consumed by the app
 │   └── favicon.svg
 ├── scripts/
+│   ├── config/
+│   │   └── finance-watchlist.json   # ASX tickers for fetch-finance.mjs
 │   ├── lib/               # Shared path + JSON helpers
 │   ├── fetch-all.mjs      # Orchestrator
-│   ├── fetch-finance.mjs  # ASX + property merge (Yahoo chart API)
+│   ├── fetch-finance.mjs  # Share price pipeline → finance.json (Yahoo chart API)
 │   ├── fetch-macro.mjs    # FX (Frankfurter) + commodities (Yahoo)
 │   └── fetch-news.mjs     # Reddit JSON + RSS (BBC demo)
 ├── src/
@@ -94,7 +96,7 @@ npm run data:macro        # macro only
 npm run data:seed         # fill illustrative 90d / 5y series in public/data (optional)
 ```
 
-- **Finance**: tries Yahoo chart endpoints for `NAB.AX`, `WES.AX`, `COL.AX`; merges into existing `finance.json` on partial failure. Optional `PROPERTY_VALUE_AUD` env overrides the house estimate.
+- **Share prices (`fetch-finance.mjs`)**: reads **`scripts/config/finance-watchlist.json`** (Yahoo symbols, e.g. `NAB.AX`). For each line it pulls **3mo / 1d** and **5y / 1wk** from Yahoo’s **chart v8** endpoint (unofficial), with **retries**, **spacing between calls**, and **independent 90d vs 5y** error handling so one leg failing does not wipe the other. It writes **`quotes`**, **`history` / `history90d` / `history5y`**, and a **`sharePricePipeline`** audit block (per-symbol OK flags + error strings) used on the Finance page. On failure it **falls back to the previous committed JSON** for that symbol. Optional **`PROPERTY_VALUE_AUD`** overrides the house estimate.
 - **Macro**: Frankfurter for **AUD/USD** and history; Yahoo for **gold** (`GC=F`), **Brent** (`BZ=F`), and **WTI** (`CL=F`) as a liquid companion crude leg (swap symbols if your desk prefers true Brent deferred contracts).
 - **News**: Reddit hot listings + BBC World RSS (naive XML parse; swap for a proper parser if feeds vary).
 

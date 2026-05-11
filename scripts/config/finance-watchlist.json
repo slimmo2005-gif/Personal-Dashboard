@@ -1,0 +1,8 @@
+{
+  "_readme": "ASX equities for the dashboard: use Yahoo symbols ending in .AX",
+  "symbols": [
+    { "yahoo": "NAB.AX", "symbol": "NAB.AX", "name": "National Australia Bank Ltd" },
+    { "yahoo": "WES.AX", "symbol": "WES.AX", "name": "Wesfarmers Limited" },
+    { "yahoo": "COL.AX", "symbol": "COL.AX", "name": "Coles Group Ltd" }
+  ]
+}

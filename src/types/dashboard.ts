@@ -17,9 +17,27 @@ export interface Quote {
   asOf?: IsoDate;
 }
 
+export interface FinanceSharePriceSymbolRun {
+  yahoo: string;
+  fetchedAt: IsoDate;
+  quoteOk: boolean;
+  history90dOk: boolean;
+  history5yOk: boolean;
+  errors: string[];
+}
+
+export interface FinanceSharePricePipeline {
+  provider: string;
+  fetchedAt: IsoDate;
+  watchlist: string;
+  perSymbol: Record<string, FinanceSharePriceSymbolRun>;
+}
+
 export interface FinanceData {
   updatedAt: IsoDate;
   quotes: Quote[];
+  /** Populated by scripts/fetch-finance.mjs for auditing the share-price run. */
+  sharePricePipeline?: FinanceSharePricePipeline;
   property: {
     address: string;
     estimateAud: number;

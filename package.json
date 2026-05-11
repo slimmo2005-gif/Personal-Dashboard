@@ -9,6 +9,7 @@
     "preview": "vite preview",
     "data:fetch": "node scripts/fetch-all.mjs",
     "data:finance": "node scripts/fetch-finance.mjs",
+    "data:shares": "node scripts/fetch-finance.mjs",
     "data:macro": "node scripts/fetch-macro.mjs",
     "data:seed": "node scripts/seed-chart-history.mjs"
   },

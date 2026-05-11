@@ -2,6 +2,7 @@ import { MetricTrendRow } from "@/components/layout/MetricTrendRow";
 import { SpotMetricBlock } from "@/components/layout/SpotMetricBlock";
 import { TickerBadge } from "@/components/ui/TickerBadge";
 import { WidgetError, WidgetLoading } from "@/components/widgets";
+import { formatSpotAge } from "@/lib/formatSpotAge";
 import { useJsonData } from "@/lib/useJsonData";
 import type { FinanceData } from "@/types/dashboard";
 
@@ -25,6 +26,22 @@ export function FinancePage() {
       <header className="mb-6">
         <h2 className="font-mono text-xs uppercase tracking-[0.25em] text-terminal-muted">Personal finance</h2>
         <p className="mt-1 text-sm text-terminal-muted">ASX watchlist, valuation, and dual horizons per metric.</p>
+        {data.sharePricePipeline ? (
+          <p className="mt-2 font-mono text-[10px] leading-relaxed text-terminal-muted">
+            Share price pipeline: <span className="text-terminal-accent">{data.sharePricePipeline.provider}</span> · last run{" "}
+            <span className="text-slate-300">{formatSpotAge(data.sharePricePipeline.fetchedAt)}</span>
+            {" · "}
+            {Object.entries(data.sharePricePipeline.perSymbol).map(([sym, r]) => (
+              <span key={sym} className="mr-2 inline-block">
+                {sym.replace(/\.AX$/i, "")}:{" "}
+                {r.quoteOk ? "quote ✓" : "quote …"}
+                {r.history90dOk ? " 90d ✓" : ""}
+                {r.history5yOk ? " 5y ✓" : ""}
+                {r.errors.length ? ` (${r.errors.join("; ")})` : ""}
+              </span>
+            ))}
+          </p>
+        ) : null}
       </header>
 
       <div className="rounded-lg border border-terminal-border bg-terminal-panel/60 shadow-panel">
