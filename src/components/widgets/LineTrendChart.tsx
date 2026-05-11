@@ -13,13 +13,15 @@ type Props = {
   data: TimeSeriesPoint[];
   color?: string;
   valueFormatter?: (v: number) => string;
+  /** Tailwind height class; default h-48 */
+  className?: string;
 };
 
-export function LineTrendChart({ data, color = "#00d4aa", valueFormatter }: Props) {
-  const chartData = data.map((d) => ({ ...d, label: d.date.slice(5) }));
+export function LineTrendChart({ data, color = "#00d4aa", valueFormatter, className = "h-48" }: Props) {
+  const chartData = data.map((d) => ({ ...d, label: d.date.slice(2, 10) }));
 
   return (
-    <div className="h-48 w-full">
+    <div className={`w-full ${className}`}>
       <ResponsiveContainer width="100%" height="100%">
         <LineChart data={chartData} margin={{ top: 8, right: 8, bottom: 0, left: 0 }}>
           <CartesianGrid strokeDasharray="3 3" stroke="#1a222d" vertical={false} />

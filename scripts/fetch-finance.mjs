@@ -14,9 +14,9 @@ import path from "node:path";
 const OUT = path.join(publicDataDir, "finance.json");
 
 const SYMBOLS = [
-  { yahoo: "NAB.AX", symbol: "NAB.AX", name: "National Australia Bank" },
-  { yahoo: "WES.AX", symbol: "WES.AX", name: "Wesfarmers" },
-  { yahoo: "COL.AX", symbol: "COL.AX", name: "Coles Group" },
+  { yahoo: "NAB.AX", symbol: "NAB.AX", name: "National Australia Bank Ltd" },
+  { yahoo: "WES.AX", symbol: "WES.AX", name: "Wesfarmers Limited" },
+  { yahoo: "COL.AX", symbol: "COL.AX", name: "Coles Group Ltd" },
 ];
 
 async function fetchYahooChart(symbol, range = "3mo", interval = "1d") {
@@ -66,34 +66,46 @@ async function run() {
 
   const propertyValue = process.env.PROPERTY_VALUE_AUD ? Number(process.env.PROPERTY_VALUE_AUD) : base.property.estimateAud;
 
+  const nowIso = new Date().toISOString();
   const quotes = [];
   const history = { ...base.history };
+  const history90d = { ...(base.history90d ?? {}) };
+  const history5y = { ...(base.history5y ?? {}) };
 
   for (const s of SYMBOLS) {
     try {
-      const y = await fetchYahooChart(s.yahoo);
+      const y90 = await fetchYahooChart(s.yahoo, "3mo", "1d");
+      const y5 = await fetchYahooChart(s.yahoo, "5y", "1wk");
       quotes.push({
         symbol: s.symbol,
         name: s.name,
-        price: Number(y.price?.toFixed?.(2) ?? y.price),
-        changePct: Number(y.changePct?.toFixed?.(2) ?? y.changePct),
+        price: Number(y90.price?.toFixed?.(2) ?? y90.price),
+        changePct: Number(y90.changePct?.toFixed?.(2) ?? y90.changePct),
         currency: "AUD",
+        asOf: nowIso,
       });
-      history[s.symbol] = y.history.slice(-90);
+      const h90 = y90.history.slice(-90);
+      history[s.symbol] = h90;
+      history90d[s.symbol] = h90;
+      history5y[s.symbol] = y5.history;
     } catch (e) {
       console.warn(`[finance] skip ${s.symbol}:`, e.message);
       const fallback = base.quotes?.find((q) => q.symbol === s.symbol);
-      if (fallback) quotes.push(fallback);
+      if (fallback) quotes.push({ ...fallback, asOf: fallback.asOf ?? base.updatedAt });
       if (base.history?.[s.symbol]) history[s.symbol] = base.history[s.symbol];
+      if (base.history90d?.[s.symbol]) history90d[s.symbol] = base.history90d[s.symbol];
+      if (base.history5y?.[s.symbol]) history5y[s.symbol] = base.history5y[s.symbol];
     }
   }
 
   const out = {
     ...base,
-    updatedAt: new Date().toISOString(),
+    updatedAt: nowIso,
     quotes,
-    property: { ...base.property, estimateAud: propertyValue },
+    property: { ...base.property, estimateAud: propertyValue, asOf: base.property?.asOf ?? nowIso },
     history,
+    history90d,
+    history5y,
   };
 
   await writeJson(OUT, out);

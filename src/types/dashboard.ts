@@ -13,6 +13,8 @@ export interface Quote {
   price: number;
   changePct: number;
   currency: string;
+  /** When this quote snapshot was taken; defaults to bundle `updatedAt` in UI. */
+  asOf?: IsoDate;
 }
 
 export interface FinanceData {
@@ -22,15 +24,25 @@ export interface FinanceData {
     address: string;
     estimateAud: number;
     sourceNote: string;
+    asOf?: IsoDate;
+    history90d?: TimeSeriesPoint[];
+    history5y?: TimeSeriesPoint[];
   };
+  /** Legacy combined history (often ~90d); prefer `history90d` / `history5y`. */
   history: Record<string, TimeSeriesPoint[]>;
+  history90d?: Record<string, TimeSeriesPoint[]>;
+  history5y?: Record<string, TimeSeriesPoint[]>;
 }
 
 export interface MacroSpot {
+  id?: string;
   label: string;
   value: number;
   unit: string;
   change24hPct?: number;
+  asOf?: IsoDate;
+  history90d?: TimeSeriesPoint[];
+  history5y?: TimeSeriesPoint[];
 }
 
 export interface MacroSeries {
@@ -39,11 +51,21 @@ export interface MacroSeries {
   points: TimeSeriesPoint[];
 }
 
+export interface MacroIndicator {
+  name: string;
+  value: number;
+  unit: string;
+  period: string;
+  asOf?: IsoDate;
+  history90d?: TimeSeriesPoint[];
+  history5y?: TimeSeriesPoint[];
+}
+
 export interface MacroData {
   updatedAt: IsoDate;
   spots: MacroSpot[];
   series: MacroSeries[];
-  indicators: { name: string; value: number; unit: string; period: string }[];
+  indicators: MacroIndicator[];
 }
 
 export interface GeopoliticsData {
@@ -53,6 +75,8 @@ export interface GeopoliticsData {
   usMidterms: { chamber: string; partyProb: { dem: number; gop: number } }[];
   auFederalPoll: { party: string; tpp: number }[];
   vicStatePoll: { party: string; primary: number }[];
+  trumpApprovalSeries?: { history90d: TimeSeriesPoint[]; history5y: TimeSeriesPoint[] };
+  ukraineSeries?: { history90d: TimeSeriesPoint[]; history5y: TimeSeriesPoint[] };
 }
 
 export interface AflPlayerStat {
@@ -62,11 +86,18 @@ export interface AflPlayerStat {
   value: number;
 }
 
+export interface AflRollingMetric {
+  label: string;
+  points: TimeSeriesPoint[];
+  history90d?: TimeSeriesPoint[];
+  history5y?: TimeSeriesPoint[];
+}
+
 export interface AflData {
   updatedAt: IsoDate;
   hawthornLeaders: AflPlayerStat[];
   leagueLeaders: AflPlayerStat[];
-  rolling: { label: string; points: TimeSeriesPoint[] }[];
+  rolling: AflRollingMetric[];
 }
 
 export interface NewsItem {

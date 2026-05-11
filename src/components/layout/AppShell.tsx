@@ -1,16 +1,23 @@
-import type { ReactNode } from "react";
+import { NavLink, Outlet } from "react-router-dom";
 
 const NAV = [
-  { id: "finance", label: "Finance" },
-  { id: "macro", label: "Macro" },
-  { id: "geopolitics", label: "Geopolitics" },
-  { id: "afl", label: "AFL" },
-  { id: "news", label: "News" },
+  { to: "finance", label: "Finance" },
+  { to: "macro", label: "Macro" },
+  { to: "geopolitics", label: "Geopolitics" },
+  { to: "afl", label: "AFL" },
+  { to: "news", label: "News" },
 ] as const;
 
-type Props = { children: ReactNode };
+function navClass(active: boolean) {
+  return [
+    "rounded border px-3 py-1.5 font-mono text-xs transition",
+    active
+      ? "border-terminal-accent/60 bg-terminal-bg text-terminal-accent"
+      : "border-terminal-border bg-terminal-panel text-slate-200 hover:border-terminal-accent/50 hover:text-terminal-accent",
+  ].join(" ");
+}
 
-export function AppShell({ children }: Props) {
+export function AppShell() {
   return (
     <div className="min-h-screen bg-terminal-bg bg-[radial-gradient(ellipse_at_top,_#122018_0%,_#0b0e11_55%)]">
       <div className="mx-auto max-w-[1600px] px-4 pb-16 pt-6 sm:px-6 lg:px-8">
@@ -21,22 +28,20 @@ export function AppShell({ children }: Props) {
               Personal intelligence dashboard
             </h1>
             <p className="mt-2 max-w-2xl text-sm text-terminal-muted">
-              Modular widgets backed by versioned JSON. Scheduled jobs refresh public data for static hosting.
+              Modular routes backed by versioned JSON. Scheduled jobs refresh public data for static hosting.
             </p>
           </div>
-          <div className="flex flex-wrap gap-2">
+          <nav className="flex flex-wrap gap-2">
             {NAV.map((n) => (
-              <a
-                key={n.id}
-                href={`#${n.id}`}
-                className="rounded border border-terminal-border bg-terminal-panel px-3 py-1.5 font-mono text-xs text-slate-200 transition hover:border-terminal-accent/50 hover:text-terminal-accent"
-              >
+              <NavLink key={n.to} to={n.to} className={({ isActive }) => navClass(isActive)}>
                 {n.label}
-              </a>
+              </NavLink>
             ))}
-          </div>
+          </nav>
         </header>
-        {children}
+        <main>
+          <Outlet />
+        </main>
       </div>
     </div>
   );

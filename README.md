@@ -56,7 +56,7 @@ flowchart LR
 │   │   ├── layout/        # App shell, navigation anchors
 │   │   └── widgets/     # Reusable cards, charts, lists
 │   ├── lib/               # dataUrl helper + useJsonData hook
-│   ├── sections/          # One file per dashboard category
+│   ├── pages/             # Route-level screens (finance, macro, …)
 │   ├── types/             # JSON / domain types
 │   ├── App.tsx
 │   └── main.tsx
@@ -66,6 +66,10 @@ flowchart LR
 ├── vite.config.ts
 └── README.md
 ```
+
+## Routing
+
+The UI uses **React Router** with a basename derived from Vite’s `import.meta.env.BASE_URL`, so deep links work under GitHub Project Pages (`/Personal-Dashboard/…`). The build copies `index.html` to **`404.html`** so a hard refresh on a client route still loads the SPA.
 
 ## Local development
 
@@ -87,6 +91,7 @@ npm run preview
 npm run data:fetch        # all scripts
 npm run data:finance      # finance only
 npm run data:macro        # macro only
+npm run data:seed         # fill illustrative 90d / 5y series in public/data (optional)
 ```
 
 - **Finance**: tries Yahoo chart endpoints for `NAB.AX`, `WES.AX`, `COL.AX`; merges into existing `finance.json` on partial failure. Optional `PROPERTY_VALUE_AUD` env overrides the house estimate.
@@ -135,7 +140,7 @@ Add a new visual primitive under `src/components/widgets/` and re-export from `w
 2. **Data**: add `public/data/<topic>.json` with realistic sample content.
 3. **Fetcher** (optional): create `scripts/fetch-<topic>.mjs` writing to `public/data/<topic>.json`; register in `scripts/fetch-all.mjs`.
 4. **Loader**: use `useJsonData<T>('<topic>.json')` in a section (already resolves `import.meta.env.BASE_URL` for Pages).
-5. **UI**: add `src/sections/<Topic>Section.tsx` composing widgets; mount it in `App.tsx`.
+5. **UI**: add `src/pages/<Topic>Page.tsx` composing `MetricTrendRow` / widgets; register a `<Route>` in `App.tsx` and a `NavLink` in `AppShell.tsx`.
 6. **Nav**: add an anchor link in `AppShell.tsx` to match the section `id`.
 
 Keep **one JSON file per domain** until size forces splitting; merging related feeds in one script reduces CI noise.

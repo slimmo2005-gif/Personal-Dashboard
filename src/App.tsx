@@ -1,40 +1,68 @@
 import { lazy, Suspense } from "react";
+import { Navigate, Route, Routes } from "react-router-dom";
 import { AppShell } from "@/components/layout/AppShell";
 
-const FinanceSection = lazy(() => import("@/sections/FinanceSection").then((m) => ({ default: m.FinanceSection })));
-const MacroSection = lazy(() => import("@/sections/MacroSection").then((m) => ({ default: m.MacroSection })));
-const GeopoliticsSection = lazy(() => import("@/sections/GeopoliticsSection").then((m) => ({ default: m.GeopoliticsSection })));
-const AflSection = lazy(() => import("@/sections/AflSection").then((m) => ({ default: m.AflSection })));
-const NewsSection = lazy(() => import("@/sections/NewsSection").then((m) => ({ default: m.NewsSection })));
+const FinancePage = lazy(() => import("@/pages/FinancePage").then((m) => ({ default: m.FinancePage })));
+const MacroPage = lazy(() => import("@/pages/MacroPage").then((m) => ({ default: m.MacroPage })));
+const GeopoliticsPage = lazy(() => import("@/pages/GeopoliticsPage").then((m) => ({ default: m.GeopoliticsPage })));
+const AflPage = lazy(() => import("@/pages/AflPage").then((m) => ({ default: m.AflPage })));
+const NewsPage = lazy(() => import("@/pages/NewsPage").then((m) => ({ default: m.NewsPage })));
 
-function SectionFallback() {
+function PageFallback() {
   return (
-    <div className="rounded-lg border border-terminal-border bg-terminal-panel/80 px-4 py-8 text-center font-mono text-xs text-terminal-muted shadow-panel">
-      Loading section…
+    <div className="rounded-lg border border-terminal-border bg-terminal-panel/80 px-4 py-12 text-center font-mono text-xs text-terminal-muted shadow-panel">
+      Loading page…
     </div>
   );
 }
 
 export function App() {
   return (
-    <AppShell>
-      <div className="space-y-16">
-        <Suspense fallback={<SectionFallback />}>
-          <FinanceSection />
-        </Suspense>
-        <Suspense fallback={<SectionFallback />}>
-          <MacroSection />
-        </Suspense>
-        <Suspense fallback={<SectionFallback />}>
-          <GeopoliticsSection />
-        </Suspense>
-        <Suspense fallback={<SectionFallback />}>
-          <AflSection />
-        </Suspense>
-        <Suspense fallback={<SectionFallback />}>
-          <NewsSection />
-        </Suspense>
-      </div>
-    </AppShell>
+    <Routes>
+      <Route element={<AppShell />}>
+        <Route index element={<Navigate to="finance" replace />} />
+        <Route
+          path="finance"
+          element={
+            <Suspense fallback={<PageFallback />}>
+              <FinancePage />
+            </Suspense>
+          }
+        />
+        <Route
+          path="macro"
+          element={
+            <Suspense fallback={<PageFallback />}>
+              <MacroPage />
+            </Suspense>
+          }
+        />
+        <Route
+          path="geopolitics"
+          element={
+            <Suspense fallback={<PageFallback />}>
+              <GeopoliticsPage />
+            </Suspense>
+          }
+        />
+        <Route
+          path="afl"
+          element={
+            <Suspense fallback={<PageFallback />}>
+              <AflPage />
+            </Suspense>
+          }
+        />
+        <Route
+          path="news"
+          element={
+            <Suspense fallback={<PageFallback />}>
+              <NewsPage />
+            </Suspense>
+          }
+        />
+        <Route path="*" element={<Navigate to="finance" replace />} />
+      </Route>
+    </Routes>
   );
 }

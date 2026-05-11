@@ -9,11 +9,13 @@
     "preview": "vite preview",
     "data:fetch": "node scripts/fetch-all.mjs",
     "data:finance": "node scripts/fetch-finance.mjs",
-    "data:macro": "node scripts/fetch-macro.mjs"
+    "data:macro": "node scripts/fetch-macro.mjs",
+    "data:seed": "node scripts/seed-chart-history.mjs"
   },
   "dependencies": {
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
+    "react-router-dom": "^7.15.0",
     "recharts": "^2.15.0"
   },
   "devDependencies": {

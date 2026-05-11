@@ -99,16 +99,35 @@ export async function run() {
       { name: "Unemployment (AU)", "value": 4.1, "unit": "%", "period": "manual / ABS" },
     ];
 
+  const nowIso = new Date().toISOString();
+  const nextSpots = [
+    { label: "Gold spot (USD/oz)", value: Number(gold.price.toFixed(2)), unit: "USD", change24hPct: gold.change },
+    { label: "Brent spot (BZ=F)", value: Number(brentSpot.price.toFixed(2)), unit: "USD/bbl", change24hPct: brentSpot.change },
+    { label: "WTI benchmark (CL=F)", value: Number(brentFut.price.toFixed(2)), unit: "USD/bbl", change24hPct: brentFut.change },
+    { label: "AUD/USD", value: Number(audUsd.toFixed(4)), unit: "rate", change24hPct: undefined },
+  ];
+
+  const spots = nextSpots.map((s, idx) => {
+    const prev = previous?.spots?.find((p) => p.label === s.label) ?? {};
+    return {
+      ...prev,
+      ...s,
+      id: prev.id ?? `m${idx}`,
+      asOf: nowIso,
+      history90d: prev.history90d,
+      history5y: prev.history5y,
+    };
+  });
+
   const out = {
-    updatedAt: new Date().toISOString(),
-    spots: [
-      { label: "Gold spot (USD/oz)", value: Number(gold.price.toFixed(2)), unit: "USD", change24hPct: gold.change },
-      { label: "Brent spot (BZ=F)", value: Number(brentSpot.price.toFixed(2)), unit: "USD/bbl", change24hPct: brentSpot.change },
-      { label: "WTI benchmark (CL=F)", value: Number(brentFut.price.toFixed(2)), unit: "USD/bbl", change24hPct: brentFut.change },
-      { label: "AUD/USD", value: Number(audUsd.toFixed(4)), unit: "rate", change24hPct: undefined },
-    ],
+    ...(previous ?? {}),
+    updatedAt: nowIso,
+    spots,
     series: [{ label: "AUD/USD (Frankfurter)", unit: "rate", points: audSeries }],
-    indicators,
+    indicators: indicators.map((ind) => {
+      const p = previous?.indicators?.find((x) => x.name === ind.name) ?? {};
+      return { ...p, ...ind, asOf: nowIso, history90d: p.history90d, history5y: p.history5y };
+    }),
   };
 
   await writeJson(OUT, out);
