@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-15T09:25:14.475Z",
+  "updatedAt": "2026-05-16T08:20:30.766Z",
   "quotes": [
     {
       "symbol": "NAB.AX",
@@ -7,7 +7,7 @@
       "price": 36.52,
       "changePct": -20.63,
       "currency": "AUD",
-      "asOf": "2026-05-15T09:25:14.475Z"
+      "asOf": "2026-05-16T08:20:30.766Z"
     },
     {
       "symbol": "WES.AX",
@@ -15,7 +15,7 @@
       "price": 71.67,
       "changePct": -18.27,
       "currency": "AUD",
-      "asOf": "2026-05-15T09:25:14.475Z"
+      "asOf": "2026-05-16T08:20:30.766Z"
     },
     {
       "symbol": "COL.AX",
@@ -23,14 +23,14 @@
       "price": 20.81,
       "changePct": -5.62,
       "currency": "AUD",
-      "asOf": "2026-05-15T09:25:14.475Z"
+      "asOf": "2026-05-16T08:20:30.766Z"
     }
   ],
   "property": {
     "address": "65 Truman St, South Kingsville VIC",
     "estimateAud": 920000,
     "sourceNote": "Illustrative estimate — replace via scripts/PROPERTY_VALUE_AUD or a valuation API.",
-    "asOf": "2026-05-15T09:25:14.475Z",
+    "asOf": "2026-05-16T08:20:30.766Z",
     "history90d": [
       {
         "date": "2026-02-11",
@@ -6118,12 +6118,12 @@
   },
   "sharePricePipeline": {
     "provider": "yahoo-finance-chart-v8",
-    "fetchedAt": "2026-05-15T09:25:14.475Z",
+    "fetchedAt": "2026-05-16T08:20:30.766Z",
     "watchlist": "scripts/config/finance-watchlist.json",
     "perSymbol": {
       "NAB.AX": {
         "yahoo": "NAB.AX",
-        "fetchedAt": "2026-05-15T09:25:14.475Z",
+        "fetchedAt": "2026-05-16T08:20:30.766Z",
         "quoteOk": true,
         "history90dOk": true,
         "history5yOk": true,
@@ -6131,7 +6131,7 @@
       },
       "WES.AX": {
         "yahoo": "WES.AX",
-        "fetchedAt": "2026-05-15T09:25:14.475Z",
+        "fetchedAt": "2026-05-16T08:20:30.766Z",
         "quoteOk": true,
         "history90dOk": true,
         "history5yOk": true,
@@ -6139,7 +6139,7 @@
       },
       "COL.AX": {
         "yahoo": "COL.AX",
-        "fetchedAt": "2026-05-15T09:25:14.475Z",
+        "fetchedAt": "2026-05-16T08:20:30.766Z",
         "quoteOk": true,
         "history90dOk": true,
         "history5yOk": true,

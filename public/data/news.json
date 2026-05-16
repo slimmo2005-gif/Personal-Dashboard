@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-15T09:25:19.491Z",
+  "updatedAt": "2026-05-16T08:20:35.442Z",
   "reddit": [
     {
       "id": "r1",
@@ -26,81 +26,81 @@
   ],
   "rss": [
     {
-      "id": "rss:https://www.bbc.com/news/articles/cd7pyrj0vx7o?at_medium=RSS&amp;at_campaign=rss",
-      "title": "CIA chief visits Cuba as energy crisis worsens",
-      "url": "https://www.bbc.com/news/articles/cd7pyrj0vx7o?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.com/news/articles/ce8p61v7l68o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Trump warns Taiwan against declaring independence, hours after summit with China's Xi",
+      "url": "https://www.bbc.com/news/articles/ce8p61v7l68o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-05-15T02:40:50.000Z",
+      "publishedAt": "2026-05-16T05:53:41.000Z",
+      "topics": [
+        "rss"
+      ]
+    },
+    {
+      "id": "rss:https://www.bbc.com/news/articles/clypj01189lo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Trump and Xi conclude 'very successful' talks but few deals confirmed",
+      "url": "https://www.bbc.com/news/articles/clypj01189lo?at_medium=RSS&amp;at_campaign=rss",
+      "source": "BBC World",
+      "publishedAt": "2026-05-15T21:50:14.000Z",
+      "topics": [
+        "rss"
+      ]
+    },
+    {
+      "id": "rss:https://www.bbc.com/news/articles/cy72p2kpd03o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Senior IS leader killed by US and Nigerian forces",
+      "url": "https://www.bbc.com/news/articles/cy72p2kpd03o?at_medium=RSS&amp;at_campaign=rss",
+      "source": "BBC World",
+      "publishedAt": "2026-05-16T08:18:52.000Z",
+      "topics": [
+        "rss"
+      ]
+    },
+    {
+      "id": "rss:https://www.bbc.com/news/articles/c1m2xy3dr20o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Man killed by 13ft great white shark in Western Australia",
+      "url": "https://www.bbc.com/news/articles/c1m2xy3dr20o?at_medium=RSS&amp;at_campaign=rss",
+      "source": "BBC World",
+      "publishedAt": "2026-05-16T07:04:36.000Z",
+      "topics": [
+        "rss"
+      ]
+    },
+    {
+      "id": "rss:https://www.bbc.com/news/articles/cqlpzzl0d67o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Lebanon says six killed in Israeli strike as US announces ceasefire extension",
+      "url": "https://www.bbc.com/news/articles/cqlpzzl0d67o?at_medium=RSS&amp;at_campaign=rss",
+      "source": "BBC World",
+      "publishedAt": "2026-05-15T23:59:07.000Z",
+      "topics": [
+        "rss"
+      ]
+    },
+    {
+      "id": "rss:https://www.bbc.com/news/articles/cgjpyqjj8y4o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Switzerland to open secret files on Auschwitz 'Angel of Death' Mengele",
+      "url": "https://www.bbc.com/news/articles/cgjpyqjj8y4o?at_medium=RSS&amp;at_campaign=rss",
+      "source": "BBC World",
+      "publishedAt": "2026-05-15T23:04:33.000Z",
       "topics": [
         "rss"
       ]
     },
     {
       "id": "rss:https://www.bbc.com/news/articles/cze2wpk7y76o?at_medium=RSS&amp;at_campaign=rss",
-      "title": "New outbreak of Ebola kills 65 in eastern DR Congo",
+      "title": "New outbreak of Ebola kills 80 in eastern DR Congo",
       "url": "https://www.bbc.com/news/articles/cze2wpk7y76o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-05-15T08:27:42.000Z",
+      "publishedAt": "2026-05-16T04:11:26.000Z",
       "topics": [
         "rss"
       ]
     },
     {
-      "id": "rss:https://www.bbc.com/news/articles/c62e0p7rd2ro?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Five Italians die during cave scuba dive in Maldives",
-      "url": "https://www.bbc.com/news/articles/c62e0p7rd2ro?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.com/news/articles/c1w2gnd9xp2o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "US planning to criminally indict ex-Cuban leader Raúl Castro",
+      "url": "https://www.bbc.com/news/articles/c1w2gnd9xp2o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-05-15T07:38:17.000Z",
-      "topics": [
-        "rss"
-      ]
-    },
-    {
-      "id": "rss:https://www.bbc.com/news/articles/c4g82p5ygp8o?at_medium=RSS&amp;at_campaign=rss",
-      "title": "India's Adanis agree to pay $18m to settle civil fraud case in the US",
-      "url": "https://www.bbc.com/news/articles/c4g82p5ygp8o?at_medium=RSS&amp;at_campaign=rss",
-      "source": "BBC World",
-      "publishedAt": "2026-05-15T06:41:19.000Z",
-      "topics": [
-        "rss"
-      ]
-    },
-    {
-      "id": "rss:https://www.bbc.com/news/articles/cx21x27d4jdo?at_medium=RSS&amp;at_campaign=rss",
-      "title": "US Supreme Court restores abortion pill access for now",
-      "url": "https://www.bbc.com/news/articles/cx21x27d4jdo?at_medium=RSS&amp;at_campaign=rss",
-      "source": "BBC World",
-      "publishedAt": "2026-05-14T22:46:28.000Z",
-      "topics": [
-        "rss"
-      ]
-    },
-    {
-      "id": "rss:https://www.bbc.com/news/articles/cx21pk5g20ro?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Giant new dinosaur identified from fossils in Thailand",
-      "url": "https://www.bbc.com/news/articles/cx21pk5g20ro?at_medium=RSS&amp;at_campaign=rss",
-      "source": "BBC World",
-      "publishedAt": "2026-05-14T17:28:56.000Z",
-      "topics": [
-        "rss"
-      ]
-    },
-    {
-      "id": "rss:https://www.bbc.com/news/articles/ckgpj0m3wr2o?at_medium=RSS&amp;at_campaign=rss",
-      "title": "'Pretty miraculous' - 11 rescued after pilot ditches plane in Atlantic",
-      "url": "https://www.bbc.com/news/articles/ckgpj0m3wr2o?at_medium=RSS&amp;at_campaign=rss",
-      "source": "BBC World",
-      "publishedAt": "2026-05-14T18:38:42.000Z",
-      "topics": [
-        "rss"
-      ]
-    },
-    {
-      "id": "rss:https://www.bbc.com/news/articles/cq5p8yygq94o?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Ukraine rescuers pull dead from rubble of Kyiv flats after massive Russian strikes",
-      "url": "https://www.bbc.com/news/articles/cq5p8yygq94o?at_medium=RSS&amp;at_campaign=rss",
-      "source": "BBC World",
-      "publishedAt": "2026-05-14T13:16:32.000Z",
+      "publishedAt": "2026-05-16T01:37:27.000Z",
       "topics": [
         "rss"
       ]
