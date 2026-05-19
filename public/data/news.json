@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-18T10:42:00.439Z",
+  "updatedAt": "2026-05-19T10:09:44.504Z",
   "reddit": [
     {
       "id": "r1",
@@ -26,81 +26,81 @@
   ],
   "rss": [
     {
-      "id": "rss:https://www.bbc.com/news/articles/cd0p4y9y48xo?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Trump warns 'clock is ticking' for Iran as peace progress stalls",
-      "url": "https://www.bbc.com/news/articles/cd0p4y9y48xo?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.com/news/articles/ceqp11gn1l8o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Ebola may be spreading faster than first thought, WHO doctor warns",
+      "url": "https://www.bbc.com/news/articles/ceqp11gn1l8o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-05-18T09:58:35.000Z",
+      "publishedAt": "2026-05-19T09:33:56.000Z",
       "topics": [
         "rss"
       ]
     },
     {
-      "id": "rss:https://www.bbc.com/news/articles/cq6pz60p996o?at_medium=RSS&amp;at_campaign=rss",
-      "title": "At least six Americans exposed to Ebola during DR Congo outbreak",
-      "url": "https://www.bbc.com/news/articles/cq6pz60p996o?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.com/news/articles/c5y7q66gq56o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Teen suspects fatally shoot three in suspected hate crime at San Diego mosque",
+      "url": "https://www.bbc.com/news/articles/c5y7q66gq56o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-05-18T10:07:57.000Z",
+      "publishedAt": "2026-05-19T07:07:55.000Z",
       "topics": [
         "rss"
       ]
     },
     {
-      "id": "rss:https://www.bbc.com/news/articles/c142vz80553o?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Israeli forces boarding Gaza-bound flotilla near Cyprus, activists say",
-      "url": "https://www.bbc.com/news/articles/c142vz80553o?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.com/news/articles/c7079e55zjro?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Trump says he called off new Iran attack at request of Gulf states",
+      "url": "https://www.bbc.com/news/articles/c7079e55zjro?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-05-18T10:00:47.000Z",
+      "publishedAt": "2026-05-18T22:30:58.000Z",
       "topics": [
         "rss"
       ]
     },
     {
-      "id": "rss:https://www.bbc.com/news/articles/cm2p0n44drvo?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Strike over high fuel prices paralyses transport in Kenya",
-      "url": "https://www.bbc.com/news/articles/cm2p0n44drvo?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.com/news/articles/c0q25dwj807o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Selling children to survive: Afghan fathers forced to make impossible choices",
+      "url": "https://www.bbc.com/news/articles/c0q25dwj807o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-05-18T09:40:27.000Z",
+      "publishedAt": "2026-05-18T21:09:07.000Z",
       "topics": [
         "rss"
       ]
     },
     {
-      "id": "rss:https://www.bbc.com/news/articles/c3v2ngnpgl9o?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Driver of crashed train tested positive for drugs, Thai police say",
-      "url": "https://www.bbc.com/news/articles/c3v2ngnpgl9o?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.com/news/articles/cdrpnzv84gro?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Two dead in Spain shooting, with babies reportedly among injured",
+      "url": "https://www.bbc.com/news/articles/cdrpnzv84gro?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-05-18T07:03:56.000Z",
+      "publishedAt": "2026-05-19T07:17:15.000Z",
       "topics": [
         "rss"
       ]
     },
     {
-      "id": "rss:https://www.bbc.com/news/articles/c9q311nj5r3o?at_medium=RSS&amp;at_campaign=rss",
-      "title": "How worrying is the Ebola outbreak in DR Congo?",
-      "url": "https://www.bbc.com/news/articles/c9q311nj5r3o?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.com/news/articles/cpdp6y37zn6o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Two bodies of missing Italians recovered from inside Maldives cave",
+      "url": "https://www.bbc.com/news/articles/cpdp6y37zn6o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-05-17T18:06:31.000Z",
+      "publishedAt": "2026-05-19T10:04:58.000Z",
       "topics": [
         "rss"
       ]
     },
     {
-      "id": "rss:https://www.bbc.com/news/articles/cn8p392nl7yo?at_medium=RSS&amp;at_campaign=rss",
-      "title": "'This may be the last time you hear my voice': Political executions surge in Iran since start of war",
-      "url": "https://www.bbc.com/news/articles/cn8p392nl7yo?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.com/news/articles/c4g8kpkjkl0o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "What really holds China and Russia together",
+      "url": "https://www.bbc.com/news/articles/c4g8kpkjkl0o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-05-17T23:02:56.000Z",
+      "publishedAt": "2026-05-18T23:06:55.000Z",
       "topics": [
         "rss"
       ]
     },
     {
-      "id": "rss:https://www.bbc.com/news/videos/ce8pzkg7klgo?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Moment two fighter jets collide mid-air at US air show",
-      "url": "https://www.bbc.com/news/videos/ce8pzkg7klgo?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.com/news/articles/crkp777llgko?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Jackson Pollock painting sells for record $181m at auction",
+      "url": "https://www.bbc.com/news/articles/crkp777llgko?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-05-18T00:49:25.000Z",
+      "publishedAt": "2026-05-19T09:59:58.000Z",
       "topics": [
         "rss"
       ]
