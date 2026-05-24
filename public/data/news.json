@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-23T08:32:34.479Z",
+  "updatedAt": "2026-05-24T08:45:42.910Z",
   "reddit": [
     {
       "id": "r1",
@@ -26,81 +26,81 @@
   ],
   "rss": [
     {
+      "id": "rss:https://www.bbc.com/news/articles/cjwp82ye4y3o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Suspect killed after opening fire on Secret Service near White House",
+      "url": "https://www.bbc.com/news/articles/cjwp82ye4y3o?at_medium=RSS&amp;at_campaign=rss",
+      "source": "BBC World",
+      "publishedAt": "2026-05-24T06:15:32.000Z",
+      "topics": [
+        "rss"
+      ]
+    },
+    {
+      "id": "rss:https://www.bbc.com/news/articles/cvgz05jyrrpo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Rosenberg: Luhansk strike sparks Russian accusations and vow to retaliate",
+      "url": "https://www.bbc.com/news/articles/cvgz05jyrrpo?at_medium=RSS&amp;at_campaign=rss",
+      "source": "BBC World",
+      "publishedAt": "2026-05-23T23:34:33.000Z",
+      "topics": [
+        "rss"
+      ]
+    },
+    {
       "id": "rss:https://www.bbc.com/news/articles/c5y0ve18qlko?at_medium=RSS&amp;at_campaign=rss",
-      "title": "At least 90 dead in Chinese coal mine explosion, state media reports",
+      "title": "At least 82 killed in Chinese coal mine explosion",
       "url": "https://www.bbc.com/news/articles/c5y0ve18qlko?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-05-23T06:37:29.000Z",
+      "publishedAt": "2026-05-24T03:18:38.000Z",
       "topics": [
         "rss"
       ]
     },
     {
-      "id": "rss:https://www.bbc.com/news/articles/c5y74lwx395o?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Putin vows retaliation after accusing Ukraine of hitting student dormitory",
-      "url": "https://www.bbc.com/news/articles/c5y74lwx395o?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.com/news/articles/clyp6831yp5o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Large-scale Russian attack on Ukraine leaves four dead and dozens injured",
+      "url": "https://www.bbc.com/news/articles/clyp6831yp5o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-05-23T07:44:14.000Z",
+      "publishedAt": "2026-05-24T08:22:58.000Z",
       "topics": [
         "rss"
       ]
     },
     {
-      "id": "rss:https://www.bbc.com/news/articles/c62d65y16nno?at_medium=RSS&amp;at_campaign=rss",
-      "title": "SpaceX launches massive Starship V3 rocket on test flight",
-      "url": "https://www.bbc.com/news/articles/c62d65y16nno?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.com/news/articles/c3w2l249j8go?at_medium=RSS&amp;at_campaign=rss",
+      "title": "California declares emergency as fire crews race to contain toxic leak",
+      "url": "https://www.bbc.com/news/articles/c3w2l249j8go?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-05-23T03:53:20.000Z",
+      "publishedAt": "2026-05-23T20:07:01.000Z",
       "topics": [
         "rss"
       ]
     },
     {
-      "id": "rss:https://www.bbc.com/news/articles/cedpz9669deo?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Rubio tries to reassure Nato allies over US troop deployments",
-      "url": "https://www.bbc.com/news/articles/cedpz9669deo?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.com/news/articles/cn9pq5l2d14o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Man killed in shark attack off Australia's north-east coast",
+      "url": "https://www.bbc.com/news/articles/cn9pq5l2d14o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-05-22T15:18:30.000Z",
+      "publishedAt": "2026-05-24T07:12:37.000Z",
       "topics": [
         "rss"
       ]
     },
     {
-      "id": "rss:https://www.bbc.com/news/articles/cr7p30m1dn1o?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Ebola risk raised to 'very high' in DR Congo",
-      "url": "https://www.bbc.com/news/articles/cr7p30m1dn1o?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.com/news/articles/c759knxln0wo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Red Cross volunteers die from suspected Ebola in DR Congo",
+      "url": "https://www.bbc.com/news/articles/c759knxln0wo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-05-22T16:23:08.000Z",
+      "publishedAt": "2026-05-23T19:55:16.000Z",
       "topics": [
         "rss"
       ]
     },
     {
-      "id": "rss:https://www.bbc.com/news/articles/c4g0410gnv5o?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Race for French presidency sees ex-PM Philippe as early favourite to beat populists",
-      "url": "https://www.bbc.com/news/articles/c4g0410gnv5o?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.com/news/articles/cq5p75l7n17o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "French mum and partner held until trial after sons abandoned by road in Portugal",
+      "url": "https://www.bbc.com/news/articles/cq5p75l7n17o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-05-22T23:07:55.000Z",
-      "topics": [
-        "rss"
-      ]
-    },
-    {
-      "id": "rss:https://www.bbc.com/news/articles/cvgj2gkv1x1o?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Tulsi Gabbard to resign as US national intelligence director",
-      "url": "https://www.bbc.com/news/articles/cvgj2gkv1x1o?at_medium=RSS&amp;at_campaign=rss",
-      "source": "BBC World",
-      "publishedAt": "2026-05-22T20:30:26.000Z",
-      "topics": [
-        "rss"
-      ]
-    },
-    {
-      "id": "rss:https://www.bbc.com/news/articles/cglp5z63k9no?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Gaza flotilla activists allege abuse by Israeli forces while detained",
-      "url": "https://www.bbc.com/news/articles/cglp5z63k9no?at_medium=RSS&amp;at_campaign=rss",
-      "source": "BBC World",
-      "publishedAt": "2026-05-23T08:10:51.000Z",
+      "publishedAt": "2026-05-23T14:24:48.000Z",
       "topics": [
         "rss"
       ]
