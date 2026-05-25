@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-24T08:45:42.910Z",
+  "updatedAt": "2026-05-25T10:51:10.081Z",
   "reddit": [
     {
       "id": "r1",
@@ -26,31 +26,31 @@
   ],
   "rss": [
     {
-      "id": "rss:https://www.bbc.com/news/articles/cjwp82ye4y3o?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Suspect killed after opening fire on Secret Service near White House",
-      "url": "https://www.bbc.com/news/articles/cjwp82ye4y3o?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.com/news/articles/cglpp2yk336o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Deal with US not imminent, Iran says",
+      "url": "https://www.bbc.com/news/articles/cglpp2yk336o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-05-24T06:15:32.000Z",
+      "publishedAt": "2026-05-25T09:39:15.000Z",
       "topics": [
         "rss"
       ]
     },
     {
-      "id": "rss:https://www.bbc.com/news/articles/cvgz05jyrrpo?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Rosenberg: Luhansk strike sparks Russian accusations and vow to retaliate",
-      "url": "https://www.bbc.com/news/articles/cvgz05jyrrpo?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.com/news/articles/c809m7g29r7o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Oil prices slide on hopes of US-Iran peace deal",
+      "url": "https://www.bbc.com/news/articles/c809m7g29r7o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-05-23T23:34:33.000Z",
+      "publishedAt": "2026-05-25T10:39:18.000Z",
       "topics": [
         "rss"
       ]
     },
     {
-      "id": "rss:https://www.bbc.com/news/articles/c5y0ve18qlko?at_medium=RSS&amp;at_campaign=rss",
-      "title": "At least 82 killed in Chinese coal mine explosion",
-      "url": "https://www.bbc.com/news/articles/c5y0ve18qlko?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.com/news/articles/ce3pgn48wnqo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "She was told to marry in a country which bans girls' education. So she got in a taxi and fled",
+      "url": "https://www.bbc.com/news/articles/ce3pgn48wnqo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-05-24T03:18:38.000Z",
+      "publishedAt": "2026-05-24T21:02:08.000Z",
       "topics": [
         "rss"
       ]
@@ -60,47 +60,47 @@
       "title": "Large-scale Russian attack on Ukraine leaves four dead and dozens injured",
       "url": "https://www.bbc.com/news/articles/clyp6831yp5o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-05-24T08:22:58.000Z",
+      "publishedAt": "2026-05-25T04:45:13.000Z",
       "topics": [
         "rss"
       ]
     },
     {
-      "id": "rss:https://www.bbc.com/news/articles/c3w2l249j8go?at_medium=RSS&amp;at_campaign=rss",
-      "title": "California declares emergency as fire crews race to contain toxic leak",
-      "url": "https://www.bbc.com/news/articles/c3w2l249j8go?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.com/news/articles/c87qwrqre83o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Turkish riot police storm opposition offices after leaders ousted",
+      "url": "https://www.bbc.com/news/articles/c87qwrqre83o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-05-23T20:07:01.000Z",
+      "publishedAt": "2026-05-24T19:49:39.000Z",
       "topics": [
         "rss"
       ]
     },
     {
-      "id": "rss:https://www.bbc.com/news/articles/cn9pq5l2d14o?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Man killed in shark attack off Australia's north-east coast",
-      "url": "https://www.bbc.com/news/articles/cn9pq5l2d14o?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.com/news/articles/cm2pkd58xldo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Blast targeting train kills at least 20 in Pakistan",
+      "url": "https://www.bbc.com/news/articles/cm2pkd58xldo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-05-24T07:12:37.000Z",
+      "publishedAt": "2026-05-24T22:11:51.000Z",
       "topics": [
         "rss"
       ]
     },
     {
-      "id": "rss:https://www.bbc.com/news/articles/c759knxln0wo?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Red Cross volunteers die from suspected Ebola in DR Congo",
-      "url": "https://www.bbc.com/news/articles/c759knxln0wo?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.com/news/articles/clyp0jrxv7ro?at_medium=RSS&amp;at_campaign=rss",
+      "title": "RAF jet carrying defence secretary has signal jammed near Russian border",
+      "url": "https://www.bbc.com/news/articles/clyp0jrxv7ro?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-05-23T19:55:16.000Z",
+      "publishedAt": "2026-05-24T21:30:13.000Z",
       "topics": [
         "rss"
       ]
     },
     {
-      "id": "rss:https://www.bbc.com/news/articles/cq5p75l7n17o?at_medium=RSS&amp;at_campaign=rss",
-      "title": "French mum and partner held until trial after sons abandoned by road in Portugal",
-      "url": "https://www.bbc.com/news/articles/cq5p75l7n17o?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.com/news/articles/cjwp82ye4y3o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Suspect killed after opening fire on Secret Service near White House",
+      "url": "https://www.bbc.com/news/articles/cjwp82ye4y3o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-05-23T14:24:48.000Z",
+      "publishedAt": "2026-05-24T15:24:11.000Z",
       "topics": [
         "rss"
       ]
