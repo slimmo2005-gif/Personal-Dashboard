@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-26T10:19:37.942Z",
+  "updatedAt": "2026-05-27T10:32:17.251Z",
   "reddit": [
     {
       "id": "r1",
@@ -26,81 +26,81 @@
   ],
   "rss": [
     {
-      "id": "rss:https://www.bbc.com/news/articles/cvgzzn4y1n8o?at_medium=RSS&amp;at_campaign=rss",
-      "title": "US launches new strikes on Iran, targeting missile sites and boats",
-      "url": "https://www.bbc.com/news/articles/cvgzzn4y1n8o?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.com/news/articles/cjwppj1yn7go?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Israeli strike in Gaza City kills new head of Hamas's military wing",
+      "url": "https://www.bbc.com/news/articles/cjwppj1yn7go?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-05-26T09:44:58.000Z",
+      "publishedAt": "2026-05-27T09:55:11.000Z",
       "topics": [
         "rss"
       ]
     },
     {
-      "id": "rss:https://www.bbc.com/news/articles/cewppdk1187o?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Netanyahu says Israel will intensify strikes against Hezbollah",
-      "url": "https://www.bbc.com/news/articles/cewppdk1187o?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.com/news/articles/cx211rgngp0o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Dozens killed in Lebanon as Israel intensifies strikes",
+      "url": "https://www.bbc.com/news/articles/cx211rgngp0o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-05-26T01:17:46.000Z",
+      "publishedAt": "2026-05-27T04:07:27.000Z",
       "topics": [
         "rss"
       ]
     },
     {
-      "id": "rss:https://www.bbc.com/news/articles/c1e22n55zn4o?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Russia threatens more Kyiv strikes and tells foreign nationals to leave",
-      "url": "https://www.bbc.com/news/articles/c1e22n55zn4o?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.com/news/articles/c39228nxyr4o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Nasa unveils next steps to build permanent Moon base",
+      "url": "https://www.bbc.com/news/articles/c39228nxyr4o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-05-26T03:06:06.000Z",
+      "publishedAt": "2026-05-26T20:25:50.000Z",
       "topics": [
         "rss"
       ]
     },
     {
-      "id": "rss:https://www.bbc.com/news/articles/c759q6y26w3o?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Australia confirms first diphtheria death amid worst outbreak in decades",
-      "url": "https://www.bbc.com/news/articles/c759q6y26w3o?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.com/news/articles/c4g44yl7q70o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Iran condemns US strikes as 'gross violation' of ceasefire",
+      "url": "https://www.bbc.com/news/articles/c4g44yl7q70o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-05-26T07:09:38.000Z",
+      "publishedAt": "2026-05-26T15:15:29.000Z",
       "topics": [
         "rss"
       ]
     },
     {
-      "id": "rss:https://www.bbc.com/news/articles/cg5ppg50gplo?at_medium=RSS&amp;at_campaign=rss",
-      "title": "China executes man for murdering prominent gaming tycoon",
-      "url": "https://www.bbc.com/news/articles/cg5ppg50gplo?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.com/news/articles/cqxpp73wqero?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Can EU find a Russia whisperer to mediate an end to war in Ukraine?",
+      "url": "https://www.bbc.com/news/articles/cqxpp73wqero?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-05-26T08:55:55.000Z",
+      "publishedAt": "2026-05-26T23:15:47.000Z",
       "topics": [
         "rss"
       ]
     },
     {
-      "id": "rss:https://www.bbc.com/news/articles/c8e8gx2d7j4o?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Wave of child abuse cases shakes schools in Paris",
-      "url": "https://www.bbc.com/news/articles/c8e8gx2d7j4o?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.com/news/articles/cj9ppm94xw9o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "One killed and nine missing after chemical explosion at US paper mill",
+      "url": "https://www.bbc.com/news/articles/cj9ppm94xw9o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-05-25T23:01:57.000Z",
+      "publishedAt": "2026-05-27T03:02:27.000Z",
       "topics": [
         "rss"
       ]
     },
     {
-      "id": "rss:https://www.bbc.com/news/articles/cglpp1g388zo?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Rescuers race to free seven people trapped in flooded Laos cave",
-      "url": "https://www.bbc.com/news/articles/cglpp1g388zo?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.com/news/articles/cx21dr3lekpo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Woman caught after 30 years on the run is jailed for armed robberies",
+      "url": "https://www.bbc.com/news/articles/cx21dr3lekpo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-05-26T01:48:34.000Z",
+      "publishedAt": "2026-05-27T10:27:59.000Z",
       "topics": [
         "rss"
       ]
     },
     {
-      "id": "rss:https://www.bbc.com/news/articles/c1e224dwz18o?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Jazz legend Sonny Rollins dies aged 95",
-      "url": "https://www.bbc.com/news/articles/c1e224dwz18o?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.com/news/articles/c4g4yd8q0j7o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Hotel that refused to give tourist tap water acted lawfully, Italian court rules",
+      "url": "https://www.bbc.com/news/articles/c4g4yd8q0j7o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-05-26T05:13:27.000Z",
+      "publishedAt": "2026-05-27T02:52:49.000Z",
       "topics": [
         "rss"
       ]
