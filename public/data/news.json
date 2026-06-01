@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-31T09:25:09.044Z",
+  "updatedAt": "2026-06-01T12:10:52.376Z",
   "reddit": [
     {
       "id": "r1",
@@ -26,81 +26,81 @@
   ],
   "rss": [
     {
-      "id": "rss:https://www.bbc.com/news/articles/cg7pk5j7nyjo?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Hundreds arrested in France after wild Champions League celebrations",
-      "url": "https://www.bbc.com/news/articles/cg7pk5j7nyjo?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.com/news/articles/crlpy8n7pr6o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "US says it struck Iranian radar sites as Kuwait reports missile and drone attacks",
+      "url": "https://www.bbc.com/news/articles/crlpy8n7pr6o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-05-31T06:41:02.000Z",
+      "publishedAt": "2026-06-01T09:32:04.000Z",
       "topics": [
         "rss"
       ]
     },
     {
-      "id": "rss:https://www.bbc.com/news/articles/cp8p4ejy8ppo?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Japan defence minister denies militarism and criticises China's 'huge arsenal'",
-      "url": "https://www.bbc.com/news/articles/cp8p4ejy8ppo?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.com/news/articles/c2l2yl7r8r2o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Iran attacks damage 20 US military sites since start of war, satellite images show",
+      "url": "https://www.bbc.com/news/articles/c2l2yl7r8r2o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-05-31T06:34:04.000Z",
+      "publishedAt": "2026-06-01T05:33:18.000Z",
       "topics": [
         "rss"
       ]
     },
     {
-      "id": "rss:https://www.bbc.com/news/articles/c99ldxykz4zo?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Ebola spread in DR Congo 'deeply alarming', MSF warns",
-      "url": "https://www.bbc.com/news/articles/c99ldxykz4zo?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.com/news/articles/c4g419e2xlvo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Israel PM orders strikes on Beirut suburbs as Hezbollah conflict escalates",
+      "url": "https://www.bbc.com/news/articles/c4g419e2xlvo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-05-31T06:47:05.000Z",
+      "publishedAt": "2026-06-01T09:28:35.000Z",
       "topics": [
         "rss"
       ]
     },
     {
-      "id": "rss:https://www.bbc.com/news/articles/cvgzyp93jq1o?at_medium=RSS&amp;at_campaign=rss",
-      "title": "'No-one feels safe now': Residents of Romanian city hit by drone share fears",
-      "url": "https://www.bbc.com/news/articles/cvgzyp93jq1o?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.com/news/articles/cglp7p787njo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Huge blast kills dozens in rebel-held village in Myanmar",
+      "url": "https://www.bbc.com/news/articles/cglp7p787njo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-05-30T17:34:30.000Z",
+      "publishedAt": "2026-06-01T06:23:59.000Z",
       "topics": [
         "rss"
       ]
     },
     {
-      "id": "rss:https://www.bbc.com/news/articles/c2027g423glo?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Colombia votes in presidential election that could redefine relations with US",
-      "url": "https://www.bbc.com/news/articles/c2027g423glo?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.com/news/articles/cz928xq588no?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Five patients recover from Ebola in DR Congo and leave hospital",
+      "url": "https://www.bbc.com/news/articles/cz928xq588no?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-05-31T08:47:46.000Z",
+      "publishedAt": "2026-06-01T09:56:24.000Z",
       "topics": [
         "rss"
       ]
     },
     {
-      "id": "rss:https://www.bbc.com/news/articles/c3d27x5vnnvo?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Italy bans Kanye West and Travis Scott concerts over security concerns",
-      "url": "https://www.bbc.com/news/articles/c3d27x5vnnvo?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.com/news/articles/cn8pwgej1gxo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "France seized sanctioned Russian oil tanker with UK help, Macron says",
+      "url": "https://www.bbc.com/news/articles/cn8pwgej1gxo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-05-30T15:39:12.000Z",
+      "publishedAt": "2026-06-01T11:53:26.000Z",
       "topics": [
         "rss"
       ]
     },
     {
-      "id": "rss:https://www.bbc.com/news/articles/cvgzy64j9l1o?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Oscar-winning Star Wars editor Marcia Lucas dies aged 80",
-      "url": "https://www.bbc.com/news/articles/cvgzy64j9l1o?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.com/news/articles/c1d2ld91635o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Poland's controversial 'Highway to Hel' 666 bus revived",
+      "url": "https://www.bbc.com/news/articles/c1d2ld91635o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-05-30T18:03:40.000Z",
+      "publishedAt": "2026-06-01T03:19:57.000Z",
       "topics": [
         "rss"
       ]
     },
     {
-      "id": "rss:https://www.bbc.com/news/articles/cy02j1n87wlo?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Trump attacks artists dropping out of US Freedom 250 concert and mulls appearing himself",
-      "url": "https://www.bbc.com/news/articles/cy02j1n87wlo?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.com/news/articles/cr7py513njmo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Litterbugs now face on-the-spot fines in Tokyo's tourist hotspot",
+      "url": "https://www.bbc.com/news/articles/cr7py513njmo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-05-30T17:40:47.000Z",
+      "publishedAt": "2026-06-01T06:52:40.000Z",
       "topics": [
         "rss"
       ]
