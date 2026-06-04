@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-03T11:24:03.447Z",
+  "updatedAt": "2026-06-04T10:13:04.180Z",
   "reddit": [
     {
       "id": "r1",
@@ -26,81 +26,81 @@
   ],
   "rss": [
     {
-      "id": "rss:https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&amp;at_campaign=rss",
-      "title": "US and Iran launch new strikes, as Kuwait says airport hit by Iranian drones",
-      "url": "https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.com/news/articles/c5y01pdqvkgo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Israel and Lebanon agree to implement ceasefire if Hezbollah stops attacks",
+      "url": "https://www.bbc.com/news/articles/c5y01pdqvkgo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-06-03T11:17:08.000Z",
+      "publishedAt": "2026-06-04T07:49:33.000Z",
       "topics": [
         "rss"
       ]
     },
     {
-      "id": "rss:https://www.bbc.com/news/articles/c936zvne0l6o?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Israel strikes southern Lebanon but partial truce with Hezbollah appears to hold",
-      "url": "https://www.bbc.com/news/articles/c936zvne0l6o?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.com/news/articles/cj6pldg39deo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "US House delivers rebuke to Trump as it votes to halt Iran war",
+      "url": "https://www.bbc.com/news/articles/cj6pldg39deo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-06-02T21:51:20.000Z",
+      "publishedAt": "2026-06-04T07:23:41.000Z",
       "topics": [
         "rss"
       ]
     },
     {
-      "id": "rss:https://www.bbc.com/news/articles/cp3peyykxd5o?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Seven killed after drone hits bus in Russia-controlled part of Ukraine",
-      "url": "https://www.bbc.com/news/articles/cp3peyykxd5o?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.com/news/articles/cvgz21pq3g6o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "'Crazy' phone call between Trump and Netanyahu complicates Iran talks",
+      "url": "https://www.bbc.com/news/articles/cvgz21pq3g6o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-06-03T11:15:19.000Z",
+      "publishedAt": "2026-06-03T20:28:01.000Z",
       "topics": [
         "rss"
       ]
     },
     {
-      "id": "rss:https://www.bbc.com/news/articles/cy82339793go?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Putin remains uncompromising on Ukraine, but is public discourse on war changing in Russia?",
-      "url": "https://www.bbc.com/news/articles/cy82339793go?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.com/news/articles/cy823n3ln29o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Grab what you can while you can: The new reality in the South China Sea",
+      "url": "https://www.bbc.com/news/articles/cy823n3ln29o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-06-02T23:33:34.000Z",
+      "publishedAt": "2026-06-03T22:00:21.000Z",
       "topics": [
         "rss"
       ]
     },
     {
-      "id": "rss:https://www.bbc.com/news/articles/cdrp8v7407ro?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Shell pumped oil through Nigeria pipeline for years despite pollution evidence, documents show",
-      "url": "https://www.bbc.com/news/articles/cdrp8v7407ro?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.com/news/articles/cvgz2yjl4y3o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Missing Sherpa guide found on Mount Everest after 'miracle' self-rescue",
+      "url": "https://www.bbc.com/news/articles/cvgz2yjl4y3o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-06-03T05:13:02.000Z",
+      "publishedAt": "2026-06-04T08:45:25.000Z",
       "topics": [
         "rss"
       ]
     },
     {
-      "id": "rss:https://www.bbc.com/news/articles/crkpyj41m15o?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Trump administration drops $1.8bn 'anti-weaponisation' fund",
-      "url": "https://www.bbc.com/news/articles/crkpyj41m15o?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.com/news/articles/c0r2klj0nyxo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Ukraine accused of killing four in occupied Crimea",
+      "url": "https://www.bbc.com/news/articles/c0r2klj0nyxo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-06-03T00:16:09.000Z",
+      "publishedAt": "2026-06-04T09:07:06.000Z",
       "topics": [
         "rss"
       ]
     },
     {
-      "id": "rss:https://www.bbc.com/news/articles/czd29327qzvo?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Foreign nationals among at least 21 killed in Delhi fire",
-      "url": "https://www.bbc.com/news/articles/czd29327qzvo?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.com/news/articles/cpdpwgxl1qzo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Heavy gunfire in Somali capital as row over election delay escalates",
+      "url": "https://www.bbc.com/news/articles/cpdpwgxl1qzo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-06-03T10:41:26.000Z",
+      "publishedAt": "2026-06-04T08:05:33.000Z",
       "topics": [
         "rss"
       ]
     },
     {
-      "id": "rss:https://www.bbc.com/sport/football/articles/cm2pd28jnyxo?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Mayor cancels DR Congo friendly with Chile in Spain over Ebola concern",
-      "url": "https://www.bbc.com/sport/football/articles/cm2pd28jnyxo?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.com/news/articles/c4g8nyzl2pno?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Trump to nominate Blanche for attorney general on permanent basis",
+      "url": "https://www.bbc.com/news/articles/c4g8nyzl2pno?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-06-02T19:28:55.000Z",
+      "publishedAt": "2026-06-04T08:11:25.000Z",
       "topics": [
         "rss"
       ]
