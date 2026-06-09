@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-08T11:21:29.747Z",
+  "updatedAt": "2026-06-09T10:04:04.044Z",
   "reddit": [
     {
       "id": "r1",
@@ -26,81 +26,81 @@
   ],
   "rss": [
     {
+      "id": "rss:https://www.bbc.com/news/videos/cd958e7j8q9o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Trump tells BBC Netanyahu did not defy him",
+      "url": "https://www.bbc.com/news/videos/cd958e7j8q9o?at_medium=RSS&amp;at_campaign=rss",
+      "source": "BBC World",
+      "publishedAt": "2026-06-08T22:34:25.000Z",
+      "topics": [
+        "rss"
+      ]
+    },
+    {
+      "id": "rss:https://www.bbc.com/news/articles/cp8lm75186lo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Israel and Iran flare-up could strengthen Tehran's negotiating hand",
+      "url": "https://www.bbc.com/news/articles/cp8lm75186lo?at_medium=RSS&amp;at_campaign=rss",
+      "source": "BBC World",
+      "publishedAt": "2026-06-09T05:07:44.000Z",
+      "topics": [
+        "rss"
+      ]
+    },
+    {
+      "id": "rss:https://www.bbc.com/news/articles/czj89mz3mzzo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Trump booed in New York as he becomes first US president to attend NBA Finals",
+      "url": "https://www.bbc.com/news/articles/czj89mz3mzzo?at_medium=RSS&amp;at_campaign=rss",
+      "source": "BBC World",
+      "publishedAt": "2026-06-09T08:46:05.000Z",
+      "topics": [
+        "rss"
+      ]
+    },
+    {
+      "id": "rss:https://www.bbc.com/news/articles/c77yx53015no?at_medium=RSS&amp;at_campaign=rss",
+      "title": "ICC suspends top prosecutor after investigating misconduct allegations",
+      "url": "https://www.bbc.com/news/articles/c77yx53015no?at_medium=RSS&amp;at_campaign=rss",
+      "source": "BBC World",
+      "publishedAt": "2026-06-09T07:29:55.000Z",
+      "topics": [
+        "rss"
+      ]
+    },
+    {
+      "id": "rss:https://www.bbc.com/news/articles/ceqdnpzv45po?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Xi Jinping and Kim Jong Un vow stronger ties as North Korea visit wraps up",
+      "url": "https://www.bbc.com/news/articles/ceqdnpzv45po?at_medium=RSS&amp;at_campaign=rss",
+      "source": "BBC World",
+      "publishedAt": "2026-06-09T07:08:52.000Z",
+      "topics": [
+        "rss"
+      ]
+    },
+    {
       "id": "rss:https://www.bbc.com/news/articles/clyel78e6p5o?at_medium=RSS&amp;at_campaign=rss",
-      "title": "At least 32 dead after major earthquake strikes southern Philippines",
+      "title": "At least 35 dead after major earthquake strikes southern Philippines",
       "url": "https://www.bbc.com/news/articles/clyel78e6p5o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-06-08T11:10:07.000Z",
+      "publishedAt": "2026-06-08T17:28:40.000Z",
       "topics": [
         "rss"
       ]
     },
     {
-      "id": "rss:https://www.bbc.com/news/videos/cd6p6zqzj6do?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Rare footage captured of Great White shark in Mediterranean Sea",
-      "url": "https://www.bbc.com/news/videos/cd6p6zqzj6do?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.com/news/articles/c0qyzvnjlxno?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Black bear caught in Japan after days of sightings",
+      "url": "https://www.bbc.com/news/articles/c0qyzvnjlxno?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-06-08T06:09:53.000Z",
+      "publishedAt": "2026-06-09T09:32:53.000Z",
       "topics": [
         "rss"
       ]
     },
     {
-      "id": "rss:https://www.bbc.com/news/articles/cvgel990n51o?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Armenia's pro-West government wins election despite Russian pressure",
-      "url": "https://www.bbc.com/news/articles/cvgel990n51o?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.com/news/articles/cq51ep28165o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "All 24 Indian crew rescued from tanker set ablaze off Oman after US strike",
+      "url": "https://www.bbc.com/news/articles/cq51ep28165o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-06-08T10:28:40.000Z",
-      "topics": [
-        "rss"
-      ]
-    },
-    {
-      "id": "rss:https://www.bbc.com/news/articles/ceqd5jgded8o?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Knicks' long-awaited NBA run electrifies NYC, with Trump set to attend key game",
-      "url": "https://www.bbc.com/news/articles/ceqd5jgded8o?at_medium=RSS&amp;at_campaign=rss",
-      "source": "BBC World",
-      "publishedAt": "2026-06-08T09:08:59.000Z",
-      "topics": [
-        "rss"
-      ]
-    },
-    {
-      "id": "rss:https://www.bbc.com/news/articles/cr7xr1g3nvvo?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Zelensky's close European allies set out five conditions for peace talks",
-      "url": "https://www.bbc.com/news/articles/cr7xr1g3nvvo?at_medium=RSS&amp;at_campaign=rss",
-      "source": "BBC World",
-      "publishedAt": "2026-06-07T21:39:43.000Z",
-      "topics": [
-        "rss"
-      ]
-    },
-    {
-      "id": "rss:https://www.bbc.com/news/articles/ce8k1xx6yzjo?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Trump abruptly ends NBC interview after clash over 'rigged election' claim",
-      "url": "https://www.bbc.com/news/articles/ce8k1xx6yzjo?at_medium=RSS&amp;at_campaign=rss",
-      "source": "BBC World",
-      "publishedAt": "2026-06-07T19:55:49.000Z",
-      "topics": [
-        "rss"
-      ]
-    },
-    {
-      "id": "rss:https://www.bbc.com/news/articles/cx212p8r28eo?at_medium=RSS&amp;at_campaign=rss",
-      "title": "'A World Cup for them not us': Fans' anger at US travel bans and visa restrictions",
-      "url": "https://www.bbc.com/news/articles/cx212p8r28eo?at_medium=RSS&amp;at_campaign=rss",
-      "source": "BBC World",
-      "publishedAt": "2026-06-07T23:00:27.000Z",
-      "topics": [
-        "rss"
-      ]
-    },
-    {
-      "id": "rss:https://www.bbc.com/news/articles/cnv9dz3reego?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Malawians repatriated from South Africa amid xenophobia concerns",
-      "url": "https://www.bbc.com/news/articles/cnv9dz3reego?at_medium=RSS&amp;at_campaign=rss",
-      "source": "BBC World",
-      "publishedAt": "2026-06-08T11:19:58.000Z",
+      "publishedAt": "2026-06-09T06:15:49.000Z",
       "topics": [
         "rss"
       ]
