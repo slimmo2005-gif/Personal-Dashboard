@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-10T10:35:00.994Z",
+  "updatedAt": "2026-06-11T10:59:19.244Z",
   "reddit": [
     {
       "id": "r1",
@@ -26,81 +26,81 @@
   ],
   "rss": [
     {
-      "id": "rss:https://www.bbc.com/news/articles/cze9359gglyo?at_medium=RSS&amp;at_campaign=rss",
-      "title": "US strikes Iran in response to downing of military helicopter",
-      "url": "https://www.bbc.com/news/articles/cze9359gglyo?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.com/news/articles/c4gyp9v0e93o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "US and Iran exchange strikes across Middle East for second day in a row",
+      "url": "https://www.bbc.com/news/articles/c4gyp9v0e93o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-06-10T09:39:35.000Z",
+      "publishedAt": "2026-06-11T10:07:25.000Z",
       "topics": [
         "rss"
       ]
     },
     {
-      "id": "rss:https://www.bbc.com/news/articles/c20y6966xqzo?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Inside Myanmar, rebels are losing ground as military forces men into army",
-      "url": "https://www.bbc.com/news/articles/c20y6966xqzo?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.com/news/articles/cy73dr081p8o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Three Indian sailors killed in US strike on oil tanker",
+      "url": "https://www.bbc.com/news/articles/cy73dr081p8o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-06-09T21:13:17.000Z",
+      "publishedAt": "2026-06-11T08:07:34.000Z",
       "topics": [
         "rss"
       ]
     },
     {
-      "id": "rss:https://www.bbc.com/sport/football/articles/c2dylj8kj82o?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Banned referee Artan arrives home in Somalia",
-      "url": "https://www.bbc.com/sport/football/articles/c2dylj8kj82o?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.com/news/articles/c0myzxjkw99o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Trump says 'I love the inflation' as US prices rise at fastest rate in three years",
+      "url": "https://www.bbc.com/news/articles/c0myzxjkw99o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-06-10T09:50:32.000Z",
+      "publishedAt": "2026-06-11T09:14:13.000Z",
       "topics": [
         "rss"
       ]
     },
     {
-      "id": "rss:https://www.bbc.com/news/articles/c04yldyezyeo?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Manslaughter charges laid over deadly Hong Kong fire",
-      "url": "https://www.bbc.com/news/articles/c04yldyezyeo?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.com/news/articles/cwyk9exxp2qo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "The furious dispute over what caused Air India flight 171 to crash",
+      "url": "https://www.bbc.com/news/articles/cwyk9exxp2qo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-06-10T10:15:50.000Z",
+      "publishedAt": "2026-06-10T23:10:11.000Z",
       "topics": [
         "rss"
       ]
     },
     {
-      "id": "rss:https://www.bbc.com/news/articles/c0q2jgkwk0no?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Model who alleges Kanye West choked her tells BBC she felt 'suffocated and scared'",
-      "url": "https://www.bbc.com/news/articles/c0q2jgkwk0no?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.com/news/articles/ckg8v51g9lno?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Thai court sentences two men to death over Bangkok shrine bombing",
+      "url": "https://www.bbc.com/news/articles/ckg8v51g9lno?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-06-10T05:02:46.000Z",
+      "publishedAt": "2026-06-11T06:45:10.000Z",
       "topics": [
         "rss"
       ]
     },
     {
-      "id": "rss:https://www.bbc.com/news/articles/c79yzqw0z0wo?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Manhunt under way in South Africa after 12 killed in mass shooting in Johannesburg",
-      "url": "https://www.bbc.com/news/articles/c79yzqw0z0wo?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.com/news/articles/c1ly4p25jyvo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "An Everest guide's miraculous survival raises questions for tourism industry",
+      "url": "https://www.bbc.com/news/articles/c1ly4p25jyvo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-06-10T10:26:54.000Z",
+      "publishedAt": "2026-06-10T22:17:09.000Z",
       "topics": [
         "rss"
       ]
     },
     {
-      "id": "rss:https://www.bbc.com/news/articles/cvg57nk373lo?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Pakistan launches deadly air strikes in Afghanistan, reigniting tensions",
-      "url": "https://www.bbc.com/news/articles/cvg57nk373lo?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.com/news/articles/c9q2lq3vv7zo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Vance says Israeli PM Netanyahu 'has got some things wrong'",
+      "url": "https://www.bbc.com/news/articles/c9q2lq3vv7zo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-06-10T10:26:26.000Z",
+      "publishedAt": "2026-06-11T10:26:59.000Z",
       "topics": [
         "rss"
       ]
     },
     {
-      "id": "rss:https://www.bbc.com/news/articles/c992r4kn5j9o?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Zelensky under pressure to end row with Poland over WW2 name of army unit",
-      "url": "https://www.bbc.com/news/articles/c992r4kn5j9o?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.com/news/articles/cr47lyzr4q9o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Knicks fans go wild as New York team makes biggest comeback in NBA Finals history",
+      "url": "https://www.bbc.com/news/articles/cr47lyzr4q9o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-06-10T09:57:20.000Z",
+      "publishedAt": "2026-06-11T06:04:33.000Z",
       "topics": [
         "rss"
       ]
