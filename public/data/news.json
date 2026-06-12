@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-11T10:59:19.244Z",
+  "updatedAt": "2026-06-12T10:40:57.561Z",
   "reddit": [
     {
       "id": "r1",
@@ -26,81 +26,81 @@
   ],
   "rss": [
     {
-      "id": "rss:https://www.bbc.com/news/articles/c4gyp9v0e93o?at_medium=RSS&amp;at_campaign=rss",
-      "title": "US and Iran exchange strikes across Middle East for second day in a row",
-      "url": "https://www.bbc.com/news/articles/c4gyp9v0e93o?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.com/news/articles/c78y6w78828o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Tehran says 'nothing' finalised after Trump claims deal to end Iran war near",
+      "url": "https://www.bbc.com/news/articles/c78y6w78828o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-06-11T10:07:25.000Z",
+      "publishedAt": "2026-06-12T08:09:37.000Z",
       "topics": [
         "rss"
       ]
     },
     {
-      "id": "rss:https://www.bbc.com/news/articles/cy73dr081p8o?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Three Indian sailors killed in US strike on oil tanker",
-      "url": "https://www.bbc.com/news/articles/cy73dr081p8o?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.com/news/videos/cz9lg5ywzvpo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Flip flop or deliberate? - Unpacking Trump’s strategy on Iran",
+      "url": "https://www.bbc.com/news/videos/cz9lg5ywzvpo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-06-11T08:07:34.000Z",
+      "publishedAt": "2026-06-11T20:22:16.000Z",
       "topics": [
         "rss"
       ]
     },
     {
-      "id": "rss:https://www.bbc.com/news/articles/c0myzxjkw99o?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Trump says 'I love the inflation' as US prices rise at fastest rate in three years",
-      "url": "https://www.bbc.com/news/articles/c0myzxjkw99o?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.com/news/articles/cvgzzndx780o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Thai Princess Bajrakitiyabha dies after more than three years in coma",
+      "url": "https://www.bbc.com/news/articles/cvgzzndx780o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-06-11T09:14:13.000Z",
+      "publishedAt": "2026-06-12T00:45:20.000Z",
       "topics": [
         "rss"
       ]
     },
     {
-      "id": "rss:https://www.bbc.com/news/articles/cwyk9exxp2qo?at_medium=RSS&amp;at_campaign=rss",
-      "title": "The furious dispute over what caused Air India flight 171 to crash",
-      "url": "https://www.bbc.com/news/articles/cwyk9exxp2qo?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.com/news/articles/cpv32417nlwo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Why the economics make this the craziest World Cup ever",
+      "url": "https://www.bbc.com/news/articles/cpv32417nlwo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-06-10T23:10:11.000Z",
+      "publishedAt": "2026-06-11T23:07:52.000Z",
       "topics": [
         "rss"
       ]
     },
     {
-      "id": "rss:https://www.bbc.com/news/articles/ckg8v51g9lno?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Thai court sentences two men to death over Bangkok shrine bombing",
-      "url": "https://www.bbc.com/news/articles/ckg8v51g9lno?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.com/news/articles/cewpwjr9rj4o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "'They destroyed the future': Palestinian anger at rise in Israeli demolitions in East Jerusalem",
+      "url": "https://www.bbc.com/news/articles/cewpwjr9rj4o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-06-11T06:45:10.000Z",
+      "publishedAt": "2026-06-12T05:01:48.000Z",
       "topics": [
         "rss"
       ]
     },
     {
-      "id": "rss:https://www.bbc.com/news/articles/c1ly4p25jyvo?at_medium=RSS&amp;at_campaign=rss",
-      "title": "An Everest guide's miraculous survival raises questions for tourism industry",
-      "url": "https://www.bbc.com/news/articles/c1ly4p25jyvo?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.com/news/articles/c70yeee2jvqo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Deadly Sudan drone strike targets funeral procession",
+      "url": "https://www.bbc.com/news/articles/c70yeee2jvqo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-06-10T22:17:09.000Z",
+      "publishedAt": "2026-06-11T15:57:04.000Z",
       "topics": [
         "rss"
       ]
     },
     {
-      "id": "rss:https://www.bbc.com/news/articles/c9q2lq3vv7zo?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Vance says Israeli PM Netanyahu 'has got some things wrong'",
-      "url": "https://www.bbc.com/news/articles/c9q2lq3vv7zo?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.com/news/articles/c2ly928xz8go?at_medium=RSS&amp;at_campaign=rss",
+      "title": "World Cup kicks off in Mexico with Shakira, dancing, and protests",
+      "url": "https://www.bbc.com/news/articles/c2ly928xz8go?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-06-11T10:26:59.000Z",
+      "publishedAt": "2026-06-11T23:41:14.000Z",
       "topics": [
         "rss"
       ]
     },
     {
-      "id": "rss:https://www.bbc.com/news/articles/cr47lyzr4q9o?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Knicks fans go wild as New York team makes biggest comeback in NBA Finals history",
-      "url": "https://www.bbc.com/news/articles/cr47lyzr4q9o?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.com/news/articles/cq512vgyzl9o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Nigeria evacuates citizens from South Africa as anti-migrant sentiment rises",
+      "url": "https://www.bbc.com/news/articles/cq512vgyzl9o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-06-11T06:04:33.000Z",
+      "publishedAt": "2026-06-11T16:25:17.000Z",
       "topics": [
         "rss"
       ]
