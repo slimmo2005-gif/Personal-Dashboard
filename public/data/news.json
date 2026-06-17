@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-16T11:36:43.449Z",
+  "updatedAt": "2026-06-17T11:18:33.268Z",
   "reddit": [
     {
       "id": "r1",
@@ -26,11 +26,41 @@
   ],
   "rss": [
     {
-      "id": "rss:https://www.bbc.com/news/articles/cj4gnqw8j52o?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Iran deal presents political nightmare for Netanyahu",
-      "url": "https://www.bbc.com/news/articles/cj4gnqw8j52o?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.com/news/articles/c7vyn17g832o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Israel launches fresh strikes on Lebanon despite Trump criticism",
+      "url": "https://www.bbc.com/news/articles/c7vyn17g832o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-06-16T03:40:36.000Z",
+      "publishedAt": "2026-06-17T10:01:42.000Z",
+      "topics": [
+        "rss"
+      ]
+    },
+    {
+      "id": "rss:https://www.bbc.com/news/articles/c20yzm84r7lo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "UK investigating reports Russian warship fired warning shots near yacht in English Channel",
+      "url": "https://www.bbc.com/news/articles/c20yzm84r7lo?at_medium=RSS&amp;at_campaign=rss",
+      "source": "BBC World",
+      "publishedAt": "2026-06-17T08:38:24.000Z",
+      "topics": [
+        "rss"
+      ]
+    },
+    {
+      "id": "rss:https://www.bbc.com/news/articles/cgl3x0pey9lo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Brazil convicts Jair Bolsonaro's son of pursuing US help in father's legal battle",
+      "url": "https://www.bbc.com/news/articles/cgl3x0pey9lo?at_medium=RSS&amp;at_campaign=rss",
+      "source": "BBC World",
+      "publishedAt": "2026-06-17T00:31:35.000Z",
+      "topics": [
+        "rss"
+      ]
+    },
+    {
+      "id": "rss:https://www.bbc.com/news/articles/cwy0nlv90jno?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Status quo at Jerusalem's holiest site under threat as Israeli nationalists flout rules",
+      "url": "https://www.bbc.com/news/articles/cwy0nlv90jno?at_medium=RSS&amp;at_campaign=rss",
+      "source": "BBC World",
+      "publishedAt": "2026-06-17T09:13:34.000Z",
       "topics": [
         "rss"
       ]
@@ -40,67 +70,37 @@
       "title": "Russian artist and Putin critic shot dead in Poland",
       "url": "https://www.bbc.com/news/articles/clyrzd5g6k2o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-06-16T10:37:16.000Z",
+      "publishedAt": "2026-06-16T17:33:50.000Z",
       "topics": [
         "rss"
       ]
     },
     {
-      "id": "rss:https://www.bbc.com/news/articles/cqx10yql319o?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Eight dead after US Air Force B-52 bomber crashes in California",
-      "url": "https://www.bbc.com/news/articles/cqx10yql319o?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.com/news/articles/cg740l2jpr0o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "'They came with machetes' - deadline looms for migrants to leave South Africa",
+      "url": "https://www.bbc.com/news/articles/cg740l2jpr0o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-06-16T01:49:03.000Z",
+      "publishedAt": "2026-06-17T09:56:40.000Z",
       "topics": [
         "rss"
       ]
     },
     {
-      "id": "rss:https://www.bbc.com/news/articles/c3vyw7021r0o?at_medium=RSS&amp;at_campaign=rss",
-      "title": "California's Gavin Newsom alleges justice department is investigating his wife and ex-staff",
-      "url": "https://www.bbc.com/news/articles/c3vyw7021r0o?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.com/news/articles/c4gy27dyq0ro?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Equatorial Guinea government resigns after failing to meet targets",
+      "url": "https://www.bbc.com/news/articles/c4gy27dyq0ro?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-06-15T23:06:58.000Z",
+      "publishedAt": "2026-06-17T09:52:52.000Z",
       "topics": [
         "rss"
       ]
     },
     {
-      "id": "rss:https://www.bbc.com/news/articles/c7vyzgl2142o?at_medium=RSS&amp;at_campaign=rss",
-      "title": "'Dancing girl's' bare torso restored in Indian textbook after backlash",
-      "url": "https://www.bbc.com/news/articles/c7vyzgl2142o?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.com/news/articles/cyv0qmde97po?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Australian shock jock wins A$12m payout after radio station tore up contract",
+      "url": "https://www.bbc.com/news/articles/cyv0qmde97po?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-06-16T07:05:54.000Z",
-      "topics": [
-        "rss"
-      ]
-    },
-    {
-      "id": "rss:https://www.bbc.com/news/articles/ckg8zrm20jjo?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Cuba tourism collapses as US pressure campaign bites",
-      "url": "https://www.bbc.com/news/articles/ckg8zrm20jjo?at_medium=RSS&amp;at_campaign=rss",
-      "source": "BBC World",
-      "publishedAt": "2026-06-16T11:16:59.000Z",
-      "topics": [
-        "rss"
-      ]
-    },
-    {
-      "id": "rss:https://www.bbc.com/news/articles/cjdgl213dpzo?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Japan raises interest rate to highest for 31 years",
-      "url": "https://www.bbc.com/news/articles/cjdgl213dpzo?at_medium=RSS&amp;at_campaign=rss",
-      "source": "BBC World",
-      "publishedAt": "2026-06-16T08:26:30.000Z",
-      "topics": [
-        "rss"
-      ]
-    },
-    {
-      "id": "rss:https://www.bbc.com/news/articles/cn074j04l3eo?at_medium=RSS&amp;at_campaign=rss",
-      "title": "India temporarily bans Telegram over exam paper leak concerns",
-      "url": "https://www.bbc.com/news/articles/cn074j04l3eo?at_medium=RSS&amp;at_campaign=rss",
-      "source": "BBC World",
-      "publishedAt": "2026-06-16T09:23:06.000Z",
+      "publishedAt": "2026-06-17T04:08:29.000Z",
       "topics": [
         "rss"
       ]
