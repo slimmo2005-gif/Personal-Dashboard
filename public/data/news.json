@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-18T10:49:15.602Z",
+  "updatedAt": "2026-06-19T10:58:26.444Z",
   "reddit": [
     {
       "id": "r1",
@@ -26,81 +26,81 @@
   ],
   "rss": [
     {
-      "id": "rss:https://www.bbc.com/news/articles/cvgmqzr6p9mo?at_medium=RSS&amp;at_campaign=rss",
-      "title": "What's in the US-Iran agreement?",
-      "url": "https://www.bbc.com/news/articles/cvgmqzr6p9mo?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.com/news/articles/c8r2eme2n5do?at_medium=RSS&amp;at_campaign=rss",
+      "title": "US-Iran talks postponed as Vance pulls out of Switzerland trip",
+      "url": "https://www.bbc.com/news/articles/c8r2eme2n5do?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-06-18T01:28:02.000Z",
+      "publishedAt": "2026-06-19T09:38:44.000Z",
+      "topics": [
+        "rss"
+      ]
+    },
+    {
+      "id": "rss:https://www.bbc.com/news/articles/c23ymz1n9rmo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Lebanon says Israeli strikes kill 18 as Israel says four soldiers killed by Hezbollah",
+      "url": "https://www.bbc.com/news/articles/c23ymz1n9rmo?at_medium=RSS&amp;at_campaign=rss",
+      "source": "BBC World",
+      "publishedAt": "2026-06-19T10:12:21.000Z",
+      "topics": [
+        "rss"
+      ]
+    },
+    {
+      "id": "rss:https://www.bbc.com/news/articles/c932yqz8lggo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "What Iran and US get from deal and why both could struggle to keep it",
+      "url": "https://www.bbc.com/news/articles/c932yqz8lggo?at_medium=RSS&amp;at_campaign=rss",
+      "source": "BBC World",
+      "publishedAt": "2026-06-18T20:04:40.000Z",
+      "topics": [
+        "rss"
+      ]
+    },
+    {
+      "id": "rss:https://www.bbc.com/news/articles/crel9xlp8r1o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Do it at home too, women tell Japanese fans who cleaned World Cup stadium",
+      "url": "https://www.bbc.com/news/articles/crel9xlp8r1o?at_medium=RSS&amp;at_campaign=rss",
+      "source": "BBC World",
+      "publishedAt": "2026-06-19T04:30:47.000Z",
+      "topics": [
+        "rss"
+      ]
+    },
+    {
+      "id": "rss:https://www.bbc.com/news/articles/c20y15m0337o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Zimbabwe MPs pass bill to extend president's time in power",
+      "url": "https://www.bbc.com/news/articles/c20y15m0337o?at_medium=RSS&amp;at_campaign=rss",
+      "source": "BBC World",
+      "publishedAt": "2026-06-19T08:03:32.000Z",
       "topics": [
         "rss"
       ]
     },
     {
       "id": "rss:https://www.bbc.com/news/articles/c98291g5rr1o?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Moscow hit by largest Ukrainian attack since start of Russia's full-scale war",
+      "title": "Moscow residents complain of black rain after largest Ukrainian attack hits oil refinery",
       "url": "https://www.bbc.com/news/articles/c98291g5rr1o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-06-18T09:47:47.000Z",
-      "topics": [
-        "rss"
-      ]
-    },
-    {
-      "id": "rss:https://www.bbc.com/news/articles/c4gy2l30dd0o?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Suspected gang leader shot dead in flower bouquet ambush at airport",
-      "url": "https://www.bbc.com/news/articles/c4gy2l30dd0o?at_medium=RSS&amp;at_campaign=rss",
-      "source": "BBC World",
-      "publishedAt": "2026-06-18T09:26:16.000Z",
+      "publishedAt": "2026-06-18T15:46:36.000Z",
       "topics": [
         "rss"
       ]
     },
     {
       "id": "rss:https://www.bbc.com/news/articles/cdx7krkdqeno?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Gunfire and explosions heard at Niger capital's airport",
+      "title": "Thirty-five killed as gunmen attack Niger's biggest airport",
       "url": "https://www.bbc.com/news/articles/cdx7krkdqeno?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-06-18T10:06:47.000Z",
+      "publishedAt": "2026-06-19T09:43:30.000Z",
       "topics": [
         "rss"
       ]
     },
     {
-      "id": "rss:https://www.bbc.com/news/articles/cly8qd4595eo?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Japan ramping up defence is 'critical' to prevent war, Defence Minister Koizumi tells BBC",
-      "url": "https://www.bbc.com/news/articles/cly8qd4595eo?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.com/news/articles/cx2kerpkynko?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Billionaire Ambani's Jio announces what could be India's biggest share sale",
+      "url": "https://www.bbc.com/news/articles/cx2kerpkynko?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-06-17T22:36:13.000Z",
-      "topics": [
-        "rss"
-      ]
-    },
-    {
-      "id": "rss:https://www.bbc.com/news/articles/cj9g3j4pe2no?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Lawyer in high-profile Ugandan treason case charged with related offence",
-      "url": "https://www.bbc.com/news/articles/cj9g3j4pe2no?at_medium=RSS&amp;at_campaign=rss",
-      "source": "BBC World",
-      "publishedAt": "2026-06-18T09:35:29.000Z",
-      "topics": [
-        "rss"
-      ]
-    },
-    {
-      "id": "rss:https://www.bbc.com/news/articles/cwy0nlv90jno?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Status quo at Jerusalem's holiest site under threat as Israeli nationalists flout rules",
-      "url": "https://www.bbc.com/news/articles/cwy0nlv90jno?at_medium=RSS&amp;at_campaign=rss",
-      "source": "BBC World",
-      "publishedAt": "2026-06-17T09:13:34.000Z",
-      "topics": [
-        "rss"
-      ]
-    },
-    {
-      "id": "rss:https://www.bbc.com/news/articles/cpq37yxexd9o?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Iran sends tankers loaded with oil past US military blockade",
-      "url": "https://www.bbc.com/news/articles/cpq37yxexd9o?at_medium=RSS&amp;at_campaign=rss",
-      "source": "BBC World",
-      "publishedAt": "2026-06-17T13:27:47.000Z",
+      "publishedAt": "2026-06-19T10:13:41.000Z",
       "topics": [
         "rss"
       ]
