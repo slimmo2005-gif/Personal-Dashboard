@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-24T09:51:43.080Z",
+  "updatedAt": "2026-06-25T09:46:01.648Z",
   "reddit": [
     {
       "id": "r1",
@@ -26,81 +26,81 @@
   ],
   "rss": [
     {
+      "id": "rss:https://www.bbc.co.uk/news/articles/czj8vjvmz38o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "'I thought I was going to die' - Venezuelans describe earthquake panic",
+      "url": "https://www.bbc.co.uk/news/articles/czj8vjvmz38o?at_medium=RSS&amp;at_campaign=rss",
+      "source": "BBC World",
+      "publishedAt": "2026-06-25T09:07:25.000Z",
+      "topics": [
+        "rss"
+      ]
+    },
+    {
       "id": "rss:https://www.bbc.co.uk/news/articles/c78y4102n1zo?at_medium=RSS&amp;at_campaign=rss",
-      "title": "France braces for another day of sweltering heat as Europe heatwave spreads",
+      "title": "France, UK and Spain see record temperatures as heatwave grips western Europe",
       "url": "https://www.bbc.co.uk/news/articles/c78y4102n1zo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-06-24T08:48:34.000Z",
+      "publishedAt": "2026-06-24T21:39:18.000Z",
       "topics": [
         "rss"
       ]
     },
     {
-      "id": "rss:https://www.bbc.co.uk/news/articles/ce8j6g3v3r4o?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Congress passes war powers measure for first time, breaking with Trump over Iran",
-      "url": "https://www.bbc.co.uk/news/articles/ce8j6g3v3r4o?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.co.uk/news/articles/c1eydwldzdjo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Trump asks Congress for billions for Iran war, after tension with Republicans",
+      "url": "https://www.bbc.co.uk/news/articles/c1eydwldzdjo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-06-24T03:57:59.000Z",
+      "publishedAt": "2026-06-25T09:06:59.000Z",
       "topics": [
         "rss"
       ]
     },
     {
-      "id": "rss:https://www.bbc.co.uk/news/articles/c24yr796emzo?at_medium=RSS&amp;at_campaign=rss",
-      "title": "UN says it will evacuate sailors stranded in Strait of Hormuz, as Rubio warns against tolls",
-      "url": "https://www.bbc.co.uk/news/articles/c24yr796emzo?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.co.uk/news/articles/c0jy7d7wzv4o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Oil price falls to levels not seen since before Iran war",
+      "url": "https://www.bbc.co.uk/news/articles/c0jy7d7wzv4o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-06-23T21:04:11.000Z",
+      "publishedAt": "2026-06-25T07:34:55.000Z",
       "topics": [
         "rss"
       ]
     },
     {
-      "id": "rss:https://www.bbc.co.uk/news/articles/clye652m41po?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Clean sweep for Mamdani-backed candidates in New York's Democratic primary",
-      "url": "https://www.bbc.co.uk/news/articles/clye652m41po?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.co.uk/news/articles/c14y7738nm8o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Philippines bans video game played by alleged high school shooter",
+      "url": "https://www.bbc.co.uk/news/articles/c14y7738nm8o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-06-24T05:07:55.000Z",
+      "publishedAt": "2026-06-24T22:14:12.000Z",
       "topics": [
         "rss"
       ]
     },
     {
-      "id": "rss:https://www.bbc.co.uk/news/articles/cy8drk2dk3no?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Sydney woman wakes from induced coma more than a week after shark attack",
-      "url": "https://www.bbc.co.uk/news/articles/cy8drk2dk3no?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.co.uk/news/articles/cgqjl8kj8wpo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Police seal off key roads in Nairobi as Kenya braces for Gen Z protests",
+      "url": "https://www.bbc.co.uk/news/articles/cgqjl8kj8wpo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-06-24T01:42:43.000Z",
+      "publishedAt": "2026-06-25T09:42:18.000Z",
       "topics": [
         "rss"
       ]
     },
     {
-      "id": "rss:https://www.bbc.co.uk/news/articles/clyedgnyn4mo?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Eight sentenced to 450 years in prison over anti-ICE riot where officer was shot",
-      "url": "https://www.bbc.co.uk/news/articles/clyedgnyn4mo?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.co.uk/news/articles/cwyklykn5dwo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Anthropic accuses Chinese rival Alibaba of illicitly extracting AI capabilities",
+      "url": "https://www.bbc.co.uk/news/articles/cwyklykn5dwo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-06-24T00:00:06.000Z",
+      "publishedAt": "2026-06-25T03:12:17.000Z",
       "topics": [
         "rss"
       ]
     },
     {
-      "id": "rss:https://www.bbc.co.uk/news/articles/cj0g71pnv3no?at_medium=RSS&amp;at_campaign=rss",
-      "title": "French woman allegedly held captive by husband for 12 years rescued in Pakistan",
-      "url": "https://www.bbc.co.uk/news/articles/cj0g71pnv3no?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.co.uk/news/articles/ckg76mgz0m1o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Independent MPs launch new Australian centrist party",
+      "url": "https://www.bbc.co.uk/news/articles/ckg76mgz0m1o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-06-24T08:29:06.000Z",
-      "topics": [
-        "rss"
-      ]
-    },
-    {
-      "id": "rss:https://www.bbc.co.uk/news/articles/cn8q33gdgjjo?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Bondi Beach shooting hero pleads not guilty to alleged assault on his father",
-      "url": "https://www.bbc.co.uk/news/articles/cn8q33gdgjjo?at_medium=RSS&amp;at_campaign=rss",
-      "source": "BBC World",
-      "publishedAt": "2026-06-24T04:06:51.000Z",
+      "publishedAt": "2026-06-25T02:41:28.000Z",
       "topics": [
         "rss"
       ]
