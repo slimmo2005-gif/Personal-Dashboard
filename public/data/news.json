@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-05T09:23:32.681Z",
+  "updatedAt": "2026-07-06T11:05:32.207Z",
   "reddit": [
     {
       "id": "r1",
@@ -26,81 +26,81 @@
   ],
   "rss": [
     {
-      "id": "rss:https://www.bbc.co.uk/news/articles/cp9lppvkmz5o?at_medium=RSS&amp;at_campaign=rss",
-      "title": "US marks 250th birthday with fireworks, flyovers and extreme weather",
-      "url": "https://www.bbc.co.uk/news/articles/cp9lppvkmz5o?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.co.uk/news/articles/cewqqnd7zdwo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Ukraine warns of interceptor missile shortage as 18 killed in Kyiv region",
+      "url": "https://www.bbc.co.uk/news/articles/cewqqnd7zdwo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-07-05T08:24:32.000Z",
+      "publishedAt": "2026-07-06T10:21:17.000Z",
       "topics": [
         "rss"
       ]
     },
     {
-      "id": "rss:https://www.bbc.co.uk/news/articles/c8j2vmzxezro?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Ukraine hits major oil terminal in Russia's St Petersburg",
-      "url": "https://www.bbc.co.uk/news/articles/c8j2vmzxezro?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.co.uk/news/articles/c9922x87nj8o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "'I ate ketchup and cheese,' says Venezuelan girl trapped under quake rubble for 32 hours",
+      "url": "https://www.bbc.co.uk/news/articles/c9922x87nj8o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-07-04T18:41:25.000Z",
+      "publishedAt": "2026-07-06T05:04:28.000Z",
+      "topics": [
+        "rss"
+      ]
+    },
+    {
+      "id": "rss:https://www.bbc.co.uk/news/articles/cr477en6w3go?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Australian PM apologises for 'inappropriate' comments about Kylie Minogue",
+      "url": "https://www.bbc.co.uk/news/articles/cr477en6w3go?at_medium=RSS&amp;at_campaign=rss",
+      "source": "BBC World",
+      "publishedAt": "2026-07-06T01:46:29.000Z",
+      "topics": [
+        "rss"
+      ]
+    },
+    {
+      "id": "rss:https://www.bbc.co.uk/news/articles/clyeele4leeo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Marine Le Pen appeal verdict: Why this moment matters for France",
+      "url": "https://www.bbc.co.uk/news/articles/clyeele4leeo?at_medium=RSS&amp;at_campaign=rss",
+      "source": "BBC World",
+      "publishedAt": "2026-07-05T23:31:04.000Z",
+      "topics": [
+        "rss"
+      ]
+    },
+    {
+      "id": "rss:https://www.bbc.co.uk/news/articles/cdx7zzywz7wo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "A global hub for fake luxury goods, Vietnam cracks down on its black market",
+      "url": "https://www.bbc.co.uk/news/articles/cdx7zzywz7wo?at_medium=RSS&amp;at_campaign=rss",
+      "source": "BBC World",
+      "publishedAt": "2026-07-05T22:01:43.000Z",
       "topics": [
         "rss"
       ]
     },
     {
       "id": "rss:https://www.bbc.co.uk/news/articles/cr7xpgx50jxo?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Evacuations in Guam as super typhoon Bavi approaches",
+      "title": "Super Typhoon Bavi makes landfall on US Pacific islands with huge wind gusts",
       "url": "https://www.bbc.co.uk/news/articles/cr7xpgx50jxo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-07-05T09:03:53.000Z",
+      "publishedAt": "2026-07-06T00:20:20.000Z",
       "topics": [
         "rss"
       ]
     },
     {
-      "id": "rss:https://www.bbc.co.uk/news/articles/c4gy51ky75vo?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Chinese underground church figure Jin Mingri freed from prison",
-      "url": "https://www.bbc.co.uk/news/articles/c4gy51ky75vo?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.co.uk/news/articles/c1jyydr7jnjo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Australia space agency has found 'likely source' of mystery space balls",
+      "url": "https://www.bbc.co.uk/news/articles/c1jyydr7jnjo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-07-05T05:58:21.000Z",
+      "publishedAt": "2026-07-06T02:49:15.000Z",
       "topics": [
         "rss"
       ]
     },
     {
-      "id": "rss:https://www.bbc.co.uk/news/articles/cd6epx607dqo?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Former chess champion Kramnik banned over cheating remarks",
-      "url": "https://www.bbc.co.uk/news/articles/cd6epx607dqo?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.co.uk/news/articles/cj4gg89r9gdo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "'Definitely felt a big bang': Delta plane hit by firework while landing in Chicago",
+      "url": "https://www.bbc.co.uk/news/articles/cj4gg89r9gdo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-07-04T15:45:15.000Z",
-      "topics": [
-        "rss"
-      ]
-    },
-    {
-      "id": "rss:https://www.bbc.co.uk/news/articles/c5yzlwz34p7o?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Moment of destiny for France's Le Pen in verdict to decide her future in presidential race",
-      "url": "https://www.bbc.co.uk/news/articles/c5yzlwz34p7o?at_medium=RSS&amp;at_campaign=rss",
-      "source": "BBC World",
-      "publishedAt": "2026-07-04T23:17:24.000Z",
-      "topics": [
-        "rss"
-      ]
-    },
-    {
-      "id": "rss:https://www.bbc.co.uk/news/articles/c5yz83n7q5no?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Pope urges Europe to do more for migrants as he visits gateway island",
-      "url": "https://www.bbc.co.uk/news/articles/c5yz83n7q5no?at_medium=RSS&amp;at_campaign=rss",
-      "source": "BBC World",
-      "publishedAt": "2026-07-04T11:25:57.000Z",
-      "topics": [
-        "rss"
-      ]
-    },
-    {
-      "id": "rss:https://www.bbc.co.uk/news/articles/c33yldyd62po?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Row after Indian state drops eggs from school lunch menu",
-      "url": "https://www.bbc.co.uk/news/articles/c33yldyd62po?at_medium=RSS&amp;at_campaign=rss",
-      "source": "BBC World",
-      "publishedAt": "2026-07-04T00:55:10.000Z",
+      "publishedAt": "2026-07-05T18:18:40.000Z",
       "topics": [
         "rss"
       ]
