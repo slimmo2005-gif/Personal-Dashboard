@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-11T08:15:22.383Z",
+  "updatedAt": "2026-07-12T08:32:18.877Z",
   "reddit": [
     {
       "id": "r1",
@@ -26,11 +26,61 @@
   ],
   "rss": [
     {
-      "id": "rss:https://www.bbc.co.uk/news/articles/crelyq79x71o?at_medium=RSS&amp;at_campaign=rss",
-      "title": "US wants Iran to pledge to stop shooting at ships in Strait of Hormuz",
-      "url": "https://www.bbc.co.uk/news/articles/crelyq79x71o?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "US launches fresh strikes as Iran closes Strait of Hormuz",
+      "url": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-07-11T04:56:33.000Z",
+      "publishedAt": "2026-07-12T06:49:46.000Z",
+      "topics": [
+        "rss"
+      ]
+    },
+    {
+      "id": "rss:https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "US Senator Lindsey Graham dies after 'brief and sudden illness', his office says",
+      "url": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&amp;at_campaign=rss",
+      "source": "BBC World",
+      "publishedAt": "2026-07-12T08:14:08.000Z",
+      "topics": [
+        "rss"
+      ]
+    },
+    {
+      "id": "rss:https://www.bbc.co.uk/news/articles/c4gykgyn1r4o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "T. rex could become most expensive fossil ever - but it's a ​problem for scientists",
+      "url": "https://www.bbc.co.uk/news/articles/c4gykgyn1r4o?at_medium=RSS&amp;at_campaign=rss",
+      "source": "BBC World",
+      "publishedAt": "2026-07-11T23:58:40.000Z",
+      "topics": [
+        "rss"
+      ]
+    },
+    {
+      "id": "rss:https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "China evacuates nearly two million people as powerful typhoon makes landfall",
+      "url": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&amp;at_campaign=rss",
+      "source": "BBC World",
+      "publishedAt": "2026-07-12T07:39:45.000Z",
+      "topics": [
+        "rss"
+      ]
+    },
+    {
+      "id": "rss:https://www.bbc.co.uk/news/articles/ce3e66e1x3go?at_medium=RSS&amp;at_campaign=rss",
+      "title": "At least two killed in Toronto street festival shooting",
+      "url": "https://www.bbc.co.uk/news/articles/ce3e66e1x3go?at_medium=RSS&amp;at_campaign=rss",
+      "source": "BBC World",
+      "publishedAt": "2026-07-12T03:56:02.000Z",
+      "topics": [
+        "rss"
+      ]
+    },
+    {
+      "id": "rss:https://www.bbc.co.uk/news/articles/cpd3g8q51g7o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Trump administration subpoenas New York Times journalists over Air Force One reporting",
+      "url": "https://www.bbc.co.uk/news/articles/cpd3g8q51g7o?at_medium=RSS&amp;at_campaign=rss",
+      "source": "BBC World",
+      "publishedAt": "2026-07-11T16:11:33.000Z",
       "topics": [
         "rss"
       ]
@@ -40,67 +90,17 @@
       "title": "Spain battles to contain one of its deadliest wildfires as at least 12 killed",
       "url": "https://www.bbc.co.uk/news/articles/c1wyv383j2xo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-07-11T07:46:09.000Z",
+      "publishedAt": "2026-07-11T15:03:45.000Z",
       "topics": [
         "rss"
       ]
     },
     {
-      "id": "rss:https://www.bbc.co.uk/news/articles/cly8eqyj8e2o?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Meet the crypto billionaires building a world where money buys you a vote",
-      "url": "https://www.bbc.co.uk/news/articles/cly8eqyj8e2o?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.co.uk/news/articles/c0qyk9jwq9no?at_medium=RSS&amp;at_campaign=rss",
+      "title": "US Democrat Ro Khanna says he was detained by armed Israeli settlers",
+      "url": "https://www.bbc.co.uk/news/articles/c0qyk9jwq9no?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-07-10T23:03:11.000Z",
-      "topics": [
-        "rss"
-      ]
-    },
-    {
-      "id": "rss:https://www.bbc.co.uk/news/articles/c04y6wr03gxo?at_medium=RSS&amp;at_campaign=rss",
-      "title": "East Asia braces for destructive typhoon as landslides kill 15 in Philippines",
-      "url": "https://www.bbc.co.uk/news/articles/c04y6wr03gxo?at_medium=RSS&amp;at_campaign=rss",
-      "source": "BBC World",
-      "publishedAt": "2026-07-10T13:53:11.000Z",
-      "topics": [
-        "rss"
-      ]
-    },
-    {
-      "id": "rss:https://www.bbc.co.uk/news/articles/cn7558gdvjro?at_medium=RSS&amp;at_campaign=rss",
-      "title": "The photo that shows who's really on top in Le Pen's party",
-      "url": "https://www.bbc.co.uk/news/articles/cn7558gdvjro?at_medium=RSS&amp;at_campaign=rss",
-      "source": "BBC World",
-      "publishedAt": "2026-07-10T23:02:59.000Z",
-      "topics": [
-        "rss"
-      ]
-    },
-    {
-      "id": "rss:https://www.bbc.co.uk/news/articles/c2dy6e8klw0o?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Meta pulls new AI image feature after days of backlash",
-      "url": "https://www.bbc.co.uk/news/articles/c2dy6e8klw0o?at_medium=RSS&amp;at_campaign=rss",
-      "source": "BBC World",
-      "publishedAt": "2026-07-11T01:45:59.000Z",
-      "topics": [
-        "rss"
-      ]
-    },
-    {
-      "id": "rss:https://www.bbc.co.uk/news/articles/cy8w379e091o?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Apple sues OpenAI, its employees claiming theft of trade secrets",
-      "url": "https://www.bbc.co.uk/news/articles/cy8w379e091o?at_medium=RSS&amp;at_campaign=rss",
-      "source": "BBC World",
-      "publishedAt": "2026-07-10T22:54:16.000Z",
-      "topics": [
-        "rss"
-      ]
-    },
-    {
-      "id": "rss:https://www.bbc.co.uk/news/articles/crely7g8xepo?at_medium=RSS&amp;at_campaign=rss",
-      "title": "New dinosaur species with neck as long as cricket pitch discovered in Thailand",
-      "url": "https://www.bbc.co.uk/news/articles/crely7g8xepo?at_medium=RSS&amp;at_campaign=rss",
-      "source": "BBC World",
-      "publishedAt": "2026-07-10T21:30:57.000Z",
+      "publishedAt": "2026-07-11T18:00:09.000Z",
       "topics": [
         "rss"
       ]
