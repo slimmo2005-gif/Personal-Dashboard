@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-27T10:11:08.654Z",
+  "updatedAt": "2026-07-28T09:07:49.552Z",
   "reddit": [
     {
       "id": "r1",
@@ -26,81 +26,81 @@
   ],
   "rss": [
     {
+      "id": "rss:https://www.bbc.co.uk/news/articles/cdx7n1r54nno?at_medium=RSS&amp;at_campaign=rss",
+      "title": "The cocaine superhighway from Ecuador to Europe - the BBC reports on gangs and the police fightback",
+      "url": "https://www.bbc.co.uk/news/articles/cdx7n1r54nno?at_medium=RSS&amp;at_campaign=rss",
+      "source": "BBC World",
+      "publishedAt": "2026-07-28T05:01:19.000Z",
+      "topics": [
+        "rss"
+      ]
+    },
+    {
+      "id": "rss:https://www.bbc.co.uk/news/articles/c62xn4vzmnpo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Trump says Iran war talks taking place during lull in strikes",
+      "url": "https://www.bbc.co.uk/news/articles/c62xn4vzmnpo?at_medium=RSS&amp;at_campaign=rss",
+      "source": "BBC World",
+      "publishedAt": "2026-07-27T21:10:56.000Z",
+      "topics": [
+        "rss"
+      ]
+    },
+    {
+      "id": "rss:https://www.bbc.co.uk/news/articles/c87nj3w9gxjo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "US walks out of UN Security Council meeting during France's remarks",
+      "url": "https://www.bbc.co.uk/news/articles/c87nj3w9gxjo?at_medium=RSS&amp;at_campaign=rss",
+      "source": "BBC World",
+      "publishedAt": "2026-07-28T08:41:45.000Z",
+      "topics": [
+        "rss"
+      ]
+    },
+    {
+      "id": "rss:https://www.bbc.co.uk/news/articles/c1l1de9gjj6o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Ariana Grande sues hackers who leaked music and videos",
+      "url": "https://www.bbc.co.uk/news/articles/c1l1de9gjj6o?at_medium=RSS&amp;at_campaign=rss",
+      "source": "BBC World",
+      "publishedAt": "2026-07-28T08:37:12.000Z",
+      "topics": [
+        "rss"
+      ]
+    },
+    {
+      "id": "rss:https://www.bbc.co.uk/news/articles/clyqnz52rp6o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Johnson & Johnson offers up to $5.5bn to settle baby powder lawsuits",
+      "url": "https://www.bbc.co.uk/news/articles/clyqnz52rp6o?at_medium=RSS&amp;at_campaign=rss",
+      "source": "BBC World",
+      "publishedAt": "2026-07-28T01:53:58.000Z",
+      "topics": [
+        "rss"
+      ]
+    },
+    {
+      "id": "rss:https://www.bbc.co.uk/news/articles/c36d79nd5w8o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "A Japanese town wrestles with identity after protests over its first mosque",
+      "url": "https://www.bbc.co.uk/news/articles/c36d79nd5w8o?at_medium=RSS&amp;at_campaign=rss",
+      "source": "BBC World",
+      "publishedAt": "2026-07-27T22:08:21.000Z",
+      "topics": [
+        "rss"
+      ]
+    },
+    {
+      "id": "rss:https://www.bbc.co.uk/news/articles/c70gkg62w0ro?at_medium=RSS&amp;at_campaign=rss",
+      "title": "US singer D4vd to go on trial for murder in death of 14-year-old",
+      "url": "https://www.bbc.co.uk/news/articles/c70gkg62w0ro?at_medium=RSS&amp;at_campaign=rss",
+      "source": "BBC World",
+      "publishedAt": "2026-07-28T01:39:50.000Z",
+      "topics": [
+        "rss"
+      ]
+    },
+    {
       "id": "rss:https://www.bbc.co.uk/news/articles/c78gjyx4q2yo?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Three dead and several injured in shooting at food festival near Seattle's Space Needle",
+      "title": "Number of suspects in fatal Seattle food festival shooting rises to three",
       "url": "https://www.bbc.co.uk/news/articles/c78gjyx4q2yo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-07-27T06:11:20.000Z",
-      "topics": [
-        "rss"
-      ]
-    },
-    {
-      "id": "rss:https://www.bbc.co.uk/news/articles/c62eg899l99o?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Berlin Pride attack suspect shot and killed during police operation",
-      "url": "https://www.bbc.co.uk/news/articles/c62eg899l99o?at_medium=RSS&amp;at_campaign=rss",
-      "source": "BBC World",
-      "publishedAt": "2026-07-26T19:21:26.000Z",
-      "topics": [
-        "rss"
-      ]
-    },
-    {
-      "id": "rss:https://www.bbc.co.uk/news/articles/c5yegvd9ddeo?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Netanyahu accuses NYC Mayor Mamdani of 'fomenting hate' after arrest threat",
-      "url": "https://www.bbc.co.uk/news/articles/c5yegvd9ddeo?at_medium=RSS&amp;at_campaign=rss",
-      "source": "BBC World",
-      "publishedAt": "2026-07-27T09:59:15.000Z",
-      "topics": [
-        "rss"
-      ]
-    },
-    {
-      "id": "rss:https://www.bbc.co.uk/news/articles/cy8me5vyjg2o?at_medium=RSS&amp;at_campaign=rss",
-      "title": "UK PM pledges continued support for Ukraine ahead of Zelensky visit",
-      "url": "https://www.bbc.co.uk/news/articles/cy8me5vyjg2o?at_medium=RSS&amp;at_campaign=rss",
-      "source": "BBC World",
-      "publishedAt": "2026-07-27T06:48:02.000Z",
-      "topics": [
-        "rss"
-      ]
-    },
-    {
-      "id": "rss:https://www.bbc.co.uk/news/articles/cjrv77gl4deo?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say",
-      "url": "https://www.bbc.co.uk/news/articles/cjrv77gl4deo?at_medium=RSS&amp;at_campaign=rss",
-      "source": "BBC World",
-      "publishedAt": "2026-07-26T21:23:53.000Z",
-      "topics": [
-        "rss"
-      ]
-    },
-    {
-      "id": "rss:https://www.bbc.co.uk/news/articles/c1m1ev5j3m2o?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Millions see leaked copy of The Odyssey movie on X",
-      "url": "https://www.bbc.co.uk/news/articles/c1m1ev5j3m2o?at_medium=RSS&amp;at_campaign=rss",
-      "source": "BBC World",
-      "publishedAt": "2026-07-27T09:21:10.000Z",
-      "topics": [
-        "rss"
-      ]
-    },
-    {
-      "id": "rss:https://www.bbc.co.uk/sport/football/articles/cz0515973gpo?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Infantino tells Fifa critics to 'meditate, pray or watch football'",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cz0515973gpo?at_medium=RSS&amp;at_campaign=rss",
-      "source": "BBC World",
-      "publishedAt": "2026-07-27T08:07:28.000Z",
-      "topics": [
-        "rss"
-      ]
-    },
-    {
-      "id": "rss:https://www.bbc.co.uk/news/articles/cvgx91vdedno?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Argentinian leader calls Brazilian president a 'thief' and a 'convict'",
-      "url": "https://www.bbc.co.uk/news/articles/cvgx91vdedno?at_medium=RSS&amp;at_campaign=rss",
-      "source": "BBC World",
-      "publishedAt": "2026-07-27T01:35:51.000Z",
+      "publishedAt": "2026-07-27T23:36:31.000Z",
       "topics": [
         "rss"
       ]
