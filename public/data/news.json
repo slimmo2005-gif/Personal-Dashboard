@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-03T10:07:48.333Z",
+  "updatedAt": "2026-08-04T09:11:06.489Z",
   "reddit": [
     {
       "id": "r1",
@@ -26,81 +26,81 @@
   ],
   "rss": [
     {
+      "id": "rss:https://www.bbc.co.uk/news/articles/cyvl84zmgyro?at_medium=RSS&amp;at_campaign=rss",
+      "title": "EU calls for stronger borders after Ceuta migrant crossings",
+      "url": "https://www.bbc.co.uk/news/articles/cyvl84zmgyro?at_medium=RSS&amp;at_campaign=rss",
+      "source": "BBC World",
+      "publishedAt": "2026-08-03T21:43:10.000Z",
+      "topics": [
+        "rss"
+      ]
+    },
+    {
+      "id": "rss:https://www.bbc.co.uk/news/articles/cgjed2q2l0xo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Analysis: Trump challenged by cold reality from top allies",
+      "url": "https://www.bbc.co.uk/news/articles/cgjed2q2l0xo?at_medium=RSS&amp;at_campaign=rss",
+      "source": "BBC World",
+      "publishedAt": "2026-08-04T00:02:40.000Z",
+      "topics": [
+        "rss"
+      ]
+    },
+    {
+      "id": "rss:https://www.bbc.co.uk/news/articles/cr7kmnyrdn7o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach",
+      "url": "https://www.bbc.co.uk/news/articles/cr7kmnyrdn7o?at_medium=RSS&amp;at_campaign=rss",
+      "source": "BBC World",
+      "publishedAt": "2026-08-04T03:37:14.000Z",
+      "topics": [
+        "rss"
+      ]
+    },
+    {
+      "id": "rss:https://www.bbc.co.uk/news/articles/c151pkww79zo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Five dead in Moscow region as Ukraine continues warehouse strikes",
+      "url": "https://www.bbc.co.uk/news/articles/c151pkww79zo?at_medium=RSS&amp;at_campaign=rss",
+      "source": "BBC World",
+      "publishedAt": "2026-08-04T09:04:49.000Z",
+      "topics": [
+        "rss"
+      ]
+    },
+    {
       "id": "rss:https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Trump suggests new talks with Iran to begin on Monday",
+      "title": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
       "url": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-08-03T08:03:15.000Z",
+      "publishedAt": "2026-08-03T19:42:55.000Z",
       "topics": [
         "rss"
       ]
     },
     {
-      "id": "rss:https://www.bbc.co.uk/news/articles/c5yvqk69enko?at_medium=RSS&amp;at_campaign=rss",
-      "title": "'My only son was shot standing up for justice' - inside city gripped by deadly protests in Pakistan-administered Kashmir",
-      "url": "https://www.bbc.co.uk/news/articles/c5yvqk69enko?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.co.uk/news/articles/c3ek7g857q4o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Ariana Grande has had enough of body comments, but 'scrutiny' will linger",
+      "url": "https://www.bbc.co.uk/news/articles/c3ek7g857q4o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-08-03T03:32:21.000Z",
+      "publishedAt": "2026-08-03T23:25:14.000Z",
       "topics": [
         "rss"
       ]
     },
     {
-      "id": "rss:https://www.bbc.co.uk/news/articles/c1e1d5j6660o?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Aung San Suu Kyi appears healthy in first confirmed outside contact for 2.5 years",
-      "url": "https://www.bbc.co.uk/news/articles/c1e1d5j6660o?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.co.uk/news/articles/cgmkxjrrwdvo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "France wildfires reveal hundreds of WW2 shells in village",
+      "url": "https://www.bbc.co.uk/news/articles/cgmkxjrrwdvo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-08-03T06:53:09.000Z",
+      "publishedAt": "2026-08-04T04:22:12.000Z",
       "topics": [
         "rss"
       ]
     },
     {
-      "id": "rss:https://www.bbc.co.uk/news/articles/c24mr09r99eo?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Two workers killed in blast after re-entering quake-hit Japan mall on boss' order",
-      "url": "https://www.bbc.co.uk/news/articles/c24mr09r99eo?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.co.uk/news/articles/c4gx2y454w5o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "I left my wife and twins behind - why this Nigerian man fled South Africa",
+      "url": "https://www.bbc.co.uk/news/articles/c4gx2y454w5o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-08-03T08:40:22.000Z",
-      "topics": [
-        "rss"
-      ]
-    },
-    {
-      "id": "rss:https://www.bbc.co.uk/news/articles/cglj1pr0wjwo?at_medium=RSS&amp;at_campaign=rss",
-      "title": "US and Japan take action to prop up yen in rare joint move",
-      "url": "https://www.bbc.co.uk/news/articles/cglj1pr0wjwo?at_medium=RSS&amp;at_campaign=rss",
-      "source": "BBC World",
-      "publishedAt": "2026-08-03T07:30:52.000Z",
-      "topics": [
-        "rss"
-      ]
-    },
-    {
-      "id": "rss:https://www.bbc.co.uk/news/articles/c80ngjjvevyo?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Ariana Grande to take a break from public life amid 'endless' scrutiny",
-      "url": "https://www.bbc.co.uk/news/articles/c80ngjjvevyo?at_medium=RSS&amp;at_campaign=rss",
-      "source": "BBC World",
-      "publishedAt": "2026-08-03T08:27:37.000Z",
-      "topics": [
-        "rss"
-      ]
-    },
-    {
-      "id": "rss:https://www.bbc.co.uk/news/articles/cgewq549988o?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Malaysian boy on trial for allegedly murdering girl in school",
-      "url": "https://www.bbc.co.uk/news/articles/cgewq549988o?at_medium=RSS&amp;at_campaign=rss",
-      "source": "BBC World",
-      "publishedAt": "2026-08-03T01:43:16.000Z",
-      "topics": [
-        "rss"
-      ]
-    },
-    {
-      "id": "rss:https://www.bbc.co.uk/news/articles/c07rvy4e7mno?at_medium=RSS&amp;at_campaign=rss",
-      "title": "'Your legacy will live forever': Nepal mourns climber Nirmal Purja",
-      "url": "https://www.bbc.co.uk/news/articles/c07rvy4e7mno?at_medium=RSS&amp;at_campaign=rss",
-      "source": "BBC World",
-      "publishedAt": "2026-08-03T05:31:55.000Z",
+      "publishedAt": "2026-08-03T23:14:12.000Z",
       "topics": [
         "rss"
       ]
