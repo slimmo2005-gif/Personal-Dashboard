@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T07:43:23.155Z",
+  "updatedAt": "2026-08-08T07:17:16.720Z",
   "quotes": [
     {
       "symbol": "NAB.AX",
@@ -7,7 +7,7 @@
       "price": 42.23,
       "changePct": 6.88,
       "currency": "AUD",
-      "asOf": "2026-08-07T07:43:23.155Z"
+      "asOf": "2026-08-08T07:17:16.720Z"
     },
     {
       "symbol": "WES.AX",
@@ -15,7 +15,7 @@
       "price": 90.1,
       "changePct": 22.27,
       "currency": "AUD",
-      "asOf": "2026-08-07T07:43:23.155Z"
+      "asOf": "2026-08-08T07:17:16.720Z"
     },
     {
       "symbol": "COL.AX",
@@ -23,14 +23,14 @@
       "price": 24.19,
       "changePct": 10.91,
       "currency": "AUD",
-      "asOf": "2026-08-07T07:43:23.155Z"
+      "asOf": "2026-08-08T07:17:16.720Z"
     }
   ],
   "property": {
     "address": "65 Truman St, South Kingsville VIC",
     "estimateAud": 920000,
     "sourceNote": "Illustrative estimate — replace via scripts/PROPERTY_VALUE_AUD or a valuation API.",
-    "asOf": "2026-08-07T07:43:23.155Z",
+    "asOf": "2026-08-08T07:17:16.720Z",
     "history90d": [
       {
         "date": "2026-02-11",
@@ -4080,7 +4080,7 @@
       },
       {
         "date": "2026-08-02",
-        "value": 42.70000076293945
+        "value": 42.22999954223633
       },
       {
         "date": "2026-08-07",
@@ -5130,7 +5130,7 @@
       },
       {
         "date": "2026-08-02",
-        "value": 91
+        "value": 90.0999984741211
       },
       {
         "date": "2026-08-07",
@@ -6180,7 +6180,7 @@
       },
       {
         "date": "2026-08-02",
-        "value": 24.360000610351562
+        "value": 24.190000534057617
       },
       {
         "date": "2026-08-07",
@@ -6190,12 +6190,12 @@
   },
   "sharePricePipeline": {
     "provider": "yahoo-finance-chart-v8",
-    "fetchedAt": "2026-08-07T07:43:23.155Z",
+    "fetchedAt": "2026-08-08T07:17:16.720Z",
     "watchlist": "scripts/config/finance-watchlist.json",
     "perSymbol": {
       "NAB.AX": {
         "yahoo": "NAB.AX",
-        "fetchedAt": "2026-08-07T07:43:23.155Z",
+        "fetchedAt": "2026-08-08T07:17:16.720Z",
         "quoteOk": true,
         "history90dOk": true,
         "history5yOk": true,
@@ -6203,7 +6203,7 @@
       },
       "WES.AX": {
         "yahoo": "WES.AX",
-        "fetchedAt": "2026-08-07T07:43:23.155Z",
+        "fetchedAt": "2026-08-08T07:17:16.720Z",
         "quoteOk": true,
         "history90dOk": true,
         "history5yOk": true,
@@ -6211,7 +6211,7 @@
       },
       "COL.AX": {
         "yahoo": "COL.AX",
-        "fetchedAt": "2026-08-07T07:43:23.155Z",
+        "fetchedAt": "2026-08-08T07:17:16.720Z",
         "quoteOk": true,
         "history90dOk": true,
         "history5yOk": true,
