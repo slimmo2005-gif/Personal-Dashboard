@@ -1,36 +1,36 @@
 {
-  "updatedAt": "2026-08-20T07:08:21.189Z",
+  "updatedAt": "2026-08-21T07:09:18.710Z",
   "quotes": [
     {
       "symbol": "NAB.AX",
       "name": "National Australia Bank Ltd",
-      "price": 38.43,
-      "changePct": 4.43,
+      "price": 38.17,
+      "changePct": 1.35,
       "currency": "AUD",
-      "asOf": "2026-08-20T07:08:21.189Z"
+      "asOf": "2026-08-21T07:09:18.710Z"
     },
     {
       "symbol": "WES.AX",
       "name": "Wesfarmers Limited",
-      "price": 84.34,
-      "changePct": 14.41,
+      "price": 82.37,
+      "changePct": 10.19,
       "currency": "AUD",
-      "asOf": "2026-08-20T07:08:21.189Z"
+      "asOf": "2026-08-21T07:09:18.710Z"
     },
     {
       "symbol": "COL.AX",
       "name": "Coles Group Ltd",
-      "price": 22.99,
-      "changePct": 6.88,
+      "price": 22.82,
+      "changePct": 6.39,
       "currency": "AUD",
-      "asOf": "2026-08-20T07:08:21.189Z"
+      "asOf": "2026-08-21T07:09:18.710Z"
     }
   ],
   "property": {
     "address": "65 Truman St, South Kingsville VIC",
     "estimateAud": 920000,
     "sourceNote": "Illustrative estimate — replace via scripts/PROPERTY_VALUE_AUD or a valuation API.",
-    "asOf": "2026-08-20T07:08:21.189Z",
+    "asOf": "2026-08-21T07:09:18.710Z",
     "history90d": [
       {
         "date": "2026-02-11",
@@ -1439,10 +1439,6 @@
   "history": {
     "NAB.AX": [
       {
-        "date": "2026-05-20",
-        "value": 36.79999923706055
-      },
-      {
         "date": "2026-05-21",
         "value": 37.65999984741211
       },
@@ -1701,13 +1697,13 @@
       {
         "date": "2026-08-20",
         "value": 38.43000030517578
+      },
+      {
+        "date": "2026-08-21",
+        "value": 38.16999816894531
       }
     ],
     "WES.AX": [
-      {
-        "date": "2026-05-20",
-        "value": 73.72000122070312
-      },
       {
         "date": "2026-05-21",
         "value": 74.75
@@ -1967,13 +1963,13 @@
       {
         "date": "2026-08-20",
         "value": 84.33999633789062
+      },
+      {
+        "date": "2026-08-21",
+        "value": 82.37000274658203
       }
     ],
     "COL.AX": [
-      {
-        "date": "2026-05-20",
-        "value": 21.510000228881836
-      },
       {
         "date": "2026-05-21",
         "value": 21.450000762939453
@@ -2233,16 +2229,16 @@
       {
         "date": "2026-08-20",
         "value": 22.989999771118164
+      },
+      {
+        "date": "2026-08-21",
+        "value": 22.81999969482422
       }
     ]
   },
   "history90d": {
     "NAB.AX": [
       {
-        "date": "2026-05-20",
-        "value": 36.79999923706055
-      },
-      {
         "date": "2026-05-21",
         "value": 37.65999984741211
       },
@@ -2501,13 +2497,13 @@
       {
         "date": "2026-08-20",
         "value": 38.43000030517578
+      },
+      {
+        "date": "2026-08-21",
+        "value": 38.16999816894531
       }
     ],
     "WES.AX": [
-      {
-        "date": "2026-05-20",
-        "value": 73.72000122070312
-      },
       {
         "date": "2026-05-21",
         "value": 74.75
@@ -2767,13 +2763,13 @@
       {
         "date": "2026-08-20",
         "value": 84.33999633789062
+      },
+      {
+        "date": "2026-08-21",
+        "value": 82.37000274658203
       }
     ],
     "COL.AX": [
-      {
-        "date": "2026-05-20",
-        "value": 21.510000228881836
-      },
       {
         "date": "2026-05-21",
         "value": 21.450000762939453
@@ -3033,15 +3029,15 @@
       {
         "date": "2026-08-20",
         "value": 22.989999771118164
+      },
+      {
+        "date": "2026-08-21",
+        "value": 22.81999969482422
       }
     ]
   },
   "history5y": {
     "NAB.AX": [
-      {
-        "date": "2021-08-15",
-        "value": 27.40999984741211
-      },
       {
         "date": "2021-08-22",
         "value": 27.639999389648438
@@ -4084,18 +4080,14 @@
       },
       {
         "date": "2026-08-16",
-        "value": 38.91999816894531
+        "value": 38.43000030517578
       },
       {
-        "date": "2026-08-20",
-        "value": 38.43000030517578
+        "date": "2026-08-21",
+        "value": 38.16999816894531
       }
     ],
     "WES.AX": [
-      {
-        "date": "2021-08-15",
-        "value": 66.05999755859375
-      },
       {
         "date": "2021-08-22",
         "value": 62.20000076293945
@@ -5138,18 +5130,14 @@
       },
       {
         "date": "2026-08-16",
-        "value": 84.26000213623047
+        "value": 84.33999633789062
       },
       {
-        "date": "2026-08-20",
-        "value": 84.33999633789062
+        "date": "2026-08-21",
+        "value": 82.37000274658203
       }
     ],
     "COL.AX": [
-      {
-        "date": "2021-08-15",
-        "value": 18.719999313354492
-      },
       {
         "date": "2021-08-22",
         "value": 17.889999389648438
@@ -6192,22 +6180,22 @@
       },
       {
         "date": "2026-08-16",
-        "value": 23.280000686645508
+        "value": 22.989999771118164
       },
       {
-        "date": "2026-08-20",
-        "value": 22.989999771118164
+        "date": "2026-08-21",
+        "value": 22.81999969482422
       }
     ]
   },
   "sharePricePipeline": {
     "provider": "yahoo-finance-chart-v8",
-    "fetchedAt": "2026-08-20T07:08:21.189Z",
+    "fetchedAt": "2026-08-21T07:09:18.710Z",
     "watchlist": "scripts/config/finance-watchlist.json",
     "perSymbol": {
       "NAB.AX": {
         "yahoo": "NAB.AX",
-        "fetchedAt": "2026-08-20T07:08:21.189Z",
+        "fetchedAt": "2026-08-21T07:09:18.710Z",
         "quoteOk": true,
         "history90dOk": true,
         "history5yOk": true,
@@ -6215,7 +6203,7 @@
       },
       "WES.AX": {
         "yahoo": "WES.AX",
-        "fetchedAt": "2026-08-20T07:08:21.189Z",
+        "fetchedAt": "2026-08-21T07:09:18.710Z",
         "quoteOk": true,
         "history90dOk": true,
         "history5yOk": true,
@@ -6223,7 +6211,7 @@
       },
       "COL.AX": {
         "yahoo": "COL.AX",
-        "fetchedAt": "2026-08-20T07:08:21.189Z",
+        "fetchedAt": "2026-08-21T07:09:18.710Z",
         "quoteOk": true,
         "history90dOk": true,
         "history5yOk": true,
