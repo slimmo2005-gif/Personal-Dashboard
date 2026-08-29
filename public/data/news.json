@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-28T18:46:08.854Z",
+  "updatedAt": "2026-08-29T12:42:48.924Z",
   "reddit": [
     {
       "id": "r1",
@@ -26,11 +26,41 @@
   ],
   "rss": [
     {
-      "id": "rss:https://www.bbc.co.uk/news/videos/cj06j16vpr5o?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Watch: Why rescuers fear new barrier lake could cause another Nepal-Tibet flood",
-      "url": "https://www.bbc.co.uk/news/videos/cj06j16vpr5o?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
+      "url": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-08-28T10:35:06.000Z",
+      "publishedAt": "2026-08-29T03:54:11.000Z",
+      "topics": [
+        "rss"
+      ]
+    },
+    {
+      "id": "rss:https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "At least 37 dead and hundreds evacuated after strike on Kyiv warehouse",
+      "url": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&amp;at_campaign=rss",
+      "source": "BBC World",
+      "publishedAt": "2026-08-29T12:22:53.000Z",
+      "topics": [
+        "rss"
+      ]
+    },
+    {
+      "id": "rss:https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
+      "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&amp;at_campaign=rss",
+      "source": "BBC World",
+      "publishedAt": "2026-08-29T02:42:27.000Z",
+      "topics": [
+        "rss"
+      ]
+    },
+    {
+      "id": "rss:https://www.bbc.co.uk/news/articles/c99dvm39mreo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Landlady to 9/11 hijackers reveals their links to alleged Saudi spy",
+      "url": "https://www.bbc.co.uk/news/articles/c99dvm39mreo?at_medium=RSS&amp;at_campaign=rss",
+      "source": "BBC World",
+      "publishedAt": "2026-08-29T00:32:17.000Z",
       "topics": [
         "rss"
       ]
@@ -40,67 +70,37 @@
       "title": "Norway mourns King Harald as Haakon VIII ascends throne",
       "url": "https://www.bbc.co.uk/news/articles/cm2rzxrdr71o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-08-28T18:13:28.000Z",
+      "publishedAt": "2026-08-28T19:40:45.000Z",
       "topics": [
         "rss"
       ]
     },
     {
-      "id": "rss:https://www.bbc.co.uk/news/articles/c5ydgk3v60eo?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Oslo mayor calls off wedding ceremony after death of Norway's king",
-      "url": "https://www.bbc.co.uk/news/articles/c5ydgk3v60eo?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.co.uk/news/articles/cj06jgq62v9o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Right-wing commentator Milo Yiannopoulos detained by ICE",
+      "url": "https://www.bbc.co.uk/news/articles/cj06jgq62v9o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-08-28T13:50:34.000Z",
+      "publishedAt": "2026-08-29T00:46:02.000Z",
       "topics": [
         "rss"
       ]
     },
     {
-      "id": "rss:https://www.bbc.co.uk/news/articles/cy9zj11gwzxo?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Violence breaks out in Ceuta as migrant crisis continues",
-      "url": "https://www.bbc.co.uk/news/articles/cy9zj11gwzxo?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.co.uk/news/articles/cn45vdxyvvlo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Close race as Iceland votes on whether to restart talks on joining EU",
+      "url": "https://www.bbc.co.uk/news/articles/cn45vdxyvvlo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-08-28T16:30:59.000Z",
+      "publishedAt": "2026-08-29T00:56:19.000Z",
       "topics": [
         "rss"
       ]
     },
     {
-      "id": "rss:https://www.bbc.co.uk/news/articles/cqxvwpe0plro?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Thieves steal 600-diamond necklace from Vienna museum in broad daylight",
-      "url": "https://www.bbc.co.uk/news/articles/cqxvwpe0plro?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.co.uk/news/articles/c4gj2dl4x52o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Ex-White House teleprompter operator ordered to pay $172,000 for Trump speech bets",
+      "url": "https://www.bbc.co.uk/news/articles/c4gj2dl4x52o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-08-28T17:29:16.000Z",
-      "topics": [
-        "rss"
-      ]
-    },
-    {
-      "id": "rss:https://www.bbc.co.uk/news/articles/c0j38d9v40po?at_medium=RSS&amp;at_campaign=rss",
-      "title": "World's youngest reigning traditional monarch dies aged 34",
-      "url": "https://www.bbc.co.uk/news/articles/c0j38d9v40po?at_medium=RSS&amp;at_campaign=rss",
-      "source": "BBC World",
-      "publishedAt": "2026-08-28T11:13:24.000Z",
-      "topics": [
-        "rss"
-      ]
-    },
-    {
-      "id": "rss:https://www.bbc.co.uk/news/articles/ckgwdn1g58yo?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Trump signs order to rename Lake Ontario as Lake America",
-      "url": "https://www.bbc.co.uk/news/articles/ckgwdn1g58yo?at_medium=RSS&amp;at_campaign=rss",
-      "source": "BBC World",
-      "publishedAt": "2026-08-28T08:26:09.000Z",
-      "topics": [
-        "rss"
-      ]
-    },
-    {
-      "id": "rss:https://www.bbc.co.uk/news/articles/c2076gxr0llo?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Two-year curfew lifted in Sudan's capital",
-      "url": "https://www.bbc.co.uk/news/articles/c2076gxr0llo?at_medium=RSS&amp;at_campaign=rss",
-      "source": "BBC World",
-      "publishedAt": "2026-08-28T14:18:53.000Z",
+      "publishedAt": "2026-08-29T07:11:04.000Z",
       "topics": [
         "rss"
       ]
