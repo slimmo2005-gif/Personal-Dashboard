@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T11:29:49.435Z",
+  "updatedAt": "2026-09-05T10:40:07.168Z",
   "reddit": [
     {
       "id": "r1",
@@ -26,81 +26,81 @@
   ],
   "rss": [
     {
-      "id": "rss:https://www.bbc.co.uk/news/articles/c9dwjv96qyqo?at_medium=RSS&amp;at_campaign=rss",
-      "title": "'Layer upon layer of miracles': How Nepal flood survivors were rescued from tunnel",
-      "url": "https://www.bbc.co.uk/news/articles/c9dwjv96qyqo?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.co.uk/news/articles/cpwlrj2je1po?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Mistrial declared in Lindsay Clancy murder case, after jury deadlocks",
+      "url": "https://www.bbc.co.uk/news/articles/cpwlrj2je1po?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-09-04T08:23:05.000Z",
+      "publishedAt": "2026-09-04T22:48:38.000Z",
+      "topics": [
+        "rss"
+      ]
+    },
+    {
+      "id": "rss:https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Trump envoys arrive in Moscow ahead of Ukraine talks, reports say",
+      "url": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&amp;at_campaign=rss",
+      "source": "BBC World",
+      "publishedAt": "2026-09-05T10:34:08.000Z",
       "topics": [
         "rss"
       ]
     },
     {
       "id": "rss:https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Europe targeted by spiralling campaign of sabotage and Russia is the chief suspect",
+      "title": "Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect",
       "url": "https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-09-04T10:00:18.000Z",
+      "publishedAt": "2026-09-04T16:49:15.000Z",
       "topics": [
         "rss"
       ]
     },
     {
-      "id": "rss:https://www.bbc.co.uk/news/articles/c7v4n7pv5epo?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Tensions flare as judge declines to remove juror in Lindsay Clancy trial",
-      "url": "https://www.bbc.co.uk/news/articles/c7v4n7pv5epo?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.co.uk/news/articles/c7903j1vpe5o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Nepal rescuers try to reach dozens trapped in tunnel after two found alive",
+      "url": "https://www.bbc.co.uk/news/articles/c7903j1vpe5o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-09-04T00:54:46.000Z",
+      "publishedAt": "2026-09-04T12:30:56.000Z",
       "topics": [
         "rss"
       ]
     },
     {
-      "id": "rss:https://www.bbc.co.uk/news/articles/cn45jg3zlz4o?at_medium=RSS&amp;at_campaign=rss",
-      "title": "UK support for Falkland Islands 'unwavering', No 10 says",
-      "url": "https://www.bbc.co.uk/news/articles/cn45jg3zlz4o?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.co.uk/news/articles/c62k677d4lzo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Trump signs order to remove endangered species protection for grey wolves",
+      "url": "https://www.bbc.co.uk/news/articles/c62k677d4lzo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-09-04T11:29:22.000Z",
+      "publishedAt": "2026-09-05T09:12:48.000Z",
       "topics": [
         "rss"
       ]
     },
     {
-      "id": "rss:https://www.bbc.co.uk/news/articles/c7903r0grx0o?at_medium=RSS&amp;at_campaign=rss",
-      "title": "US diesel prices hit an all-time-high",
-      "url": "https://www.bbc.co.uk/news/articles/c7903r0grx0o?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.co.uk/news/articles/ce30vp55dnlo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "UN votes to adopt new world map to reflect Africa's true size",
+      "url": "https://www.bbc.co.uk/news/articles/ce30vp55dnlo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-09-04T10:52:56.000Z",
+      "publishedAt": "2026-09-05T00:53:11.000Z",
       "topics": [
         "rss"
       ]
     },
     {
-      "id": "rss:https://www.bbc.co.uk/news/articles/cjrx75ldydwo?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Steve Irwin's family celebrates 'superhero' dad, 20 years after shock death",
-      "url": "https://www.bbc.co.uk/news/articles/cjrx75ldydwo?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.co.uk/news/articles/cvgypkzgy4wo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Germany's far-right AfD bids for first taste of power in eastern vote",
+      "url": "https://www.bbc.co.uk/news/articles/cvgypkzgy4wo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-09-04T04:06:41.000Z",
+      "publishedAt": "2026-09-04T23:07:23.000Z",
       "topics": [
         "rss"
       ]
     },
     {
-      "id": "rss:https://www.bbc.co.uk/sport/tennis/articles/cy8zqd4zg14o?at_medium=RSS&amp;at_campaign=rss",
-      "title": "100 influencers invited to US Open spark debate on 'tennis etiquette'",
-      "url": "https://www.bbc.co.uk/sport/tennis/articles/cy8zqd4zg14o?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.co.uk/news/articles/c3v45xy67g5o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "At least two dead in blast at Bolivia military barracks",
+      "url": "https://www.bbc.co.uk/news/articles/c3v45xy67g5o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-09-04T07:16:07.000Z",
-      "topics": [
-        "rss"
-      ]
-    },
-    {
-      "id": "rss:https://www.bbc.co.uk/news/articles/c305qn2jeggo?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Transplanted pig kidney works in US man's body for record 271 days",
-      "url": "https://www.bbc.co.uk/news/articles/c305qn2jeggo?at_medium=RSS&amp;at_campaign=rss",
-      "source": "BBC World",
-      "publishedAt": "2026-09-03T22:31:23.000Z",
+      "publishedAt": "2026-09-05T08:41:38.000Z",
       "topics": [
         "rss"
       ]
