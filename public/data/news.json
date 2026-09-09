@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T11:23:51.310Z",
+  "updatedAt": "2026-09-09T11:28:40.320Z",
   "reddit": [
     {
       "id": "r1",
@@ -26,81 +26,81 @@
   ],
   "rss": [
     {
-      "id": "rss:https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Canada braces for prolonged trade war as counter-tariffs on US take effect",
-      "url": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Oil hits $100 a barrel for first time since July after US and Houthi strikes",
+      "url": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-09-08T04:39:14.000Z",
+      "publishedAt": "2026-09-09T09:47:39.000Z",
       "topics": [
         "rss"
       ]
     },
     {
-      "id": "rss:https://www.bbc.co.uk/news/articles/cn8m1k7p3v7o?at_medium=RSS&amp;at_campaign=rss",
-      "title": "At least two people dead after Russian strikes on Kyiv",
-      "url": "https://www.bbc.co.uk/news/articles/cn8m1k7p3v7o?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "US to ban imports of some Canadian alcohol, dairy goods and motorbikes",
+      "url": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-09-08T10:23:01.000Z",
+      "publishedAt": "2026-09-09T10:20:40.000Z",
       "topics": [
         "rss"
       ]
     },
     {
-      "id": "rss:https://www.bbc.co.uk/news/articles/clyenxp540vo?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Investigation after female staff at Eiffel Tower replaced by men for religious visit",
-      "url": "https://www.bbc.co.uk/news/articles/clyenxp540vo?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.co.uk/news/articles/c05re9qg09ro?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Tycoon to pay ex-wife $1.87bn in record South Korea divorce settlement",
+      "url": "https://www.bbc.co.uk/news/articles/c05re9qg09ro?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-09-08T11:00:10.000Z",
+      "publishedAt": "2026-09-09T08:21:39.000Z",
       "topics": [
         "rss"
       ]
     },
     {
-      "id": "rss:https://www.bbc.co.uk/news/articles/c5y5kn143d1o?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Highest paid world leader to get salary increase of $1 million",
-      "url": "https://www.bbc.co.uk/news/articles/c5y5kn143d1o?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.co.uk/news/articles/cqxv2vwjjq3o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Meta continues to run ads promoting child sexual abuse material in India - report",
+      "url": "https://www.bbc.co.uk/news/articles/cqxv2vwjjq3o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-09-08T09:20:05.000Z",
+      "publishedAt": "2026-09-08T23:27:23.000Z",
+      "topics": [
+        "rss"
+      ]
+    },
+    {
+      "id": "rss:https://www.bbc.co.uk/news/articles/cvgynv90599o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Baby orangutans found in Indian forest spark trafficking inquiry",
+      "url": "https://www.bbc.co.uk/news/articles/cvgynv90599o?at_medium=RSS&amp;at_campaign=rss",
+      "source": "BBC World",
+      "publishedAt": "2026-09-09T07:44:20.000Z",
+      "topics": [
+        "rss"
+      ]
+    },
+    {
+      "id": "rss:https://www.bbc.co.uk/news/articles/cgmr22kpd9yo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "'You're not alone in the darkness': Gambia president urges calm after violent blackout protests",
+      "url": "https://www.bbc.co.uk/news/articles/cgmr22kpd9yo?at_medium=RSS&amp;at_campaign=rss",
+      "source": "BBC World",
+      "publishedAt": "2026-09-09T06:42:01.000Z",
+      "topics": [
+        "rss"
+      ]
+    },
+    {
+      "id": "rss:https://www.bbc.co.uk/news/articles/cn457lq938jo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Hong Kong's first leader after British handover dies",
+      "url": "https://www.bbc.co.uk/news/articles/cn457lq938jo?at_medium=RSS&amp;at_campaign=rss",
+      "source": "BBC World",
+      "publishedAt": "2026-09-09T04:24:30.000Z",
       "topics": [
         "rss"
       ]
     },
     {
       "id": "rss:https://www.bbc.co.uk/news/articles/c8jd14glvneo?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Argentina targets oil company operating in Falklands",
+      "title": "Argentina to file criminal case against oil company operating in Falklands",
       "url": "https://www.bbc.co.uk/news/articles/c8jd14glvneo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
       "publishedAt": "2026-09-08T11:09:54.000Z",
-      "topics": [
-        "rss"
-      ]
-    },
-    {
-      "id": "rss:https://www.bbc.co.uk/news/articles/ce8e32n8epeo?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Five killed in Miami plane crash were in two vehicles on ground, investigators say",
-      "url": "https://www.bbc.co.uk/news/articles/ce8e32n8epeo?at_medium=RSS&amp;at_campaign=rss",
-      "source": "BBC World",
-      "publishedAt": "2026-09-08T09:31:26.000Z",
-      "topics": [
-        "rss"
-      ]
-    },
-    {
-      "id": "rss:https://www.bbc.co.uk/news/articles/crernpv433vo?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Trial over alleged murders of Australian surfer brothers starts in Mexico",
-      "url": "https://www.bbc.co.uk/news/articles/crernpv433vo?at_medium=RSS&amp;at_campaign=rss",
-      "source": "BBC World",
-      "publishedAt": "2026-09-08T01:32:56.000Z",
-      "topics": [
-        "rss"
-      ]
-    },
-    {
-      "id": "rss:https://www.bbc.co.uk/news/articles/cq5x3n38308o?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Nepal cracks down on online abuse of flood survivors",
-      "url": "https://www.bbc.co.uk/news/articles/cq5x3n38308o?at_medium=RSS&amp;at_campaign=rss",
-      "source": "BBC World",
-      "publishedAt": "2026-09-08T08:31:01.000Z",
       "topics": [
         "rss"
       ]
