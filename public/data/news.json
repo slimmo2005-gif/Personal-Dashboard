@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T11:04:53.959Z",
+  "updatedAt": "2026-09-20T11:29:36.836Z",
   "reddit": [
     {
       "id": "r1",
@@ -26,81 +26,81 @@
   ],
   "rss": [
     {
+      "id": "rss:https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "'Massive' drone attack on Moscow region sees Ukraine hit oil refinery",
+      "url": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&amp;at_campaign=rss",
+      "source": "BBC World",
+      "publishedAt": "2026-09-20T10:45:39.000Z",
+      "topics": [
+        "rss"
+      ]
+    },
+    {
+      "id": "rss:https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Ed Sheeran admits 'mistakes' at first show since Macklemore controversy",
+      "url": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&amp;at_campaign=rss",
+      "source": "BBC World",
+      "publishedAt": "2026-09-20T04:49:11.000Z",
+      "topics": [
+        "rss"
+      ]
+    },
+    {
+      "id": "rss:https://www.bbc.co.uk/news/articles/cme8xj6g2ny7o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "German elections under way which could decide fate of Chancellor Merz",
+      "url": "https://www.bbc.co.uk/news/articles/cme8xj6g2ny7o?at_medium=RSS&amp;at_campaign=rss",
+      "source": "BBC World",
+      "publishedAt": "2026-09-20T07:57:32.000Z",
+      "topics": [
+        "rss"
+      ]
+    },
+    {
+      "id": "rss:https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Houthis say they targeted Saudi capital with ballistic missiles",
+      "url": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&amp;at_campaign=rss",
+      "source": "BBC World",
+      "publishedAt": "2026-09-19T23:49:26.000Z",
+      "topics": [
+        "rss"
+      ]
+    },
+    {
       "id": "rss:https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&amp;at_campaign=rss",
-      "title": "US and Denmark reach deal over Greenland after Trump annexation threats",
+      "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
       "url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-09-19T11:01:34.000Z",
+      "publishedAt": "2026-09-19T23:00:27.000Z",
       "topics": [
         "rss"
       ]
     },
     {
-      "id": "rss:https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Trump says he is banning CNN and Politico from White House",
-      "url": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.co.uk/news/articles/cg4d9vly636o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Our head teacher was an abuser. We joined forces to get justice - now we're married",
+      "url": "https://www.bbc.co.uk/news/articles/cg4d9vly636o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-09-19T05:36:36.000Z",
+      "publishedAt": "2026-09-19T23:01:38.000Z",
       "topics": [
         "rss"
       ]
     },
     {
-      "id": "rss:https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Google's Gemini AI hacked three companies in security test",
-      "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.co.uk/news/articles/cvgy1q2k2z0o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Cultural treasures are being destroyed by war, and people want justice",
+      "url": "https://www.bbc.co.uk/news/articles/cvgy1q2k2z0o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-09-19T04:27:11.000Z",
+      "publishedAt": "2026-09-19T23:18:18.000Z",
       "topics": [
         "rss"
       ]
     },
     {
-      "id": "rss:https://www.bbc.co.uk/news/articles/cqvgy34ndj4eo?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Trump signs sweeping Russia sanctions bill",
-      "url": "https://www.bbc.co.uk/news/articles/cqvgy34ndj4eo?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.co.uk/news/articles/cj4gklz9dxplo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Journalists denied White House access after Trump banned some media outlets",
+      "url": "https://www.bbc.co.uk/news/articles/cj4gklz9dxplo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-09-18T22:05:47.000Z",
-      "topics": [
-        "rss"
-      ]
-    },
-    {
-      "id": "rss:https://www.bbc.co.uk/news/articles/cjkg71e67k17o?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Grim discoveries of murdered women spark fear in South Africa",
-      "url": "https://www.bbc.co.uk/news/articles/cjkg71e67k17o?at_medium=RSS&amp;at_campaign=rss",
-      "source": "BBC World",
-      "publishedAt": "2026-09-18T23:04:41.000Z",
-      "topics": [
-        "rss"
-      ]
-    },
-    {
-      "id": "rss:https://www.bbc.co.uk/news/articles/cqwyzdnk442lo?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Deadly shark attack prompts rare kill order in Western Australia",
-      "url": "https://www.bbc.co.uk/news/articles/cqwyzdnk442lo?at_medium=RSS&amp;at_campaign=rss",
-      "source": "BBC World",
-      "publishedAt": "2026-09-19T09:19:12.000Z",
-      "topics": [
-        "rss"
-      ]
-    },
-    {
-      "id": "rss:https://www.bbc.co.uk/news/articles/c6j9x4387lzxo?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Millions without power as Cuba hit by latest major blackout",
-      "url": "https://www.bbc.co.uk/news/articles/c6j9x4387lzxo?at_medium=RSS&amp;at_campaign=rss",
-      "source": "BBC World",
-      "publishedAt": "2026-09-19T10:27:37.000Z",
-      "topics": [
-        "rss"
-      ]
-    },
-    {
-      "id": "rss:https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&amp;at_campaign=rss",
-      "title": "At least 21 killed after vehicle loaded with explosives rams Pakistan mosque",
-      "url": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&amp;at_campaign=rss",
-      "source": "BBC World",
-      "publishedAt": "2026-09-18T20:17:50.000Z",
+      "publishedAt": "2026-09-19T19:13:49.000Z",
       "topics": [
         "rss"
       ]
