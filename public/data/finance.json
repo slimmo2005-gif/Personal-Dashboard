@@ -1,36 +1,36 @@
 {
-  "updatedAt": "2026-09-23T11:43:12.617Z",
+  "updatedAt": "2026-09-24T11:51:55.728Z",
   "quotes": [
     {
       "symbol": "NAB.AX",
       "name": "National Australia Bank Ltd",
-      "price": 38.66,
-      "changePct": 0.86,
+      "price": 38.15,
+      "changePct": -1.55,
       "currency": "AUD",
-      "asOf": "2026-09-23T11:43:12.617Z"
+      "asOf": "2026-09-24T11:51:55.728Z"
     },
     {
       "symbol": "WES.AX",
       "name": "Wesfarmers Limited",
-      "price": 73.79,
-      "changePct": -14.63,
+      "price": 73.87,
+      "changePct": -15.35,
       "currency": "AUD",
-      "asOf": "2026-09-23T11:43:12.617Z"
+      "asOf": "2026-09-24T11:51:55.728Z"
     },
     {
       "symbol": "COL.AX",
       "name": "Coles Group Ltd",
-      "price": 22.89,
-      "changePct": -4.07,
+      "price": 22.9,
+      "changePct": -3.66,
       "currency": "AUD",
-      "asOf": "2026-09-23T11:43:12.617Z"
+      "asOf": "2026-09-24T11:51:55.728Z"
     }
   ],
   "property": {
     "address": "65 Truman St, South Kingsville VIC",
     "estimateAud": 920000,
     "sourceNote": "Illustrative estimate — replace via scripts/PROPERTY_VALUE_AUD or a valuation API.",
-    "asOf": "2026-09-23T11:43:12.617Z",
+    "asOf": "2026-09-24T11:51:55.728Z",
     "history90d": [
       {
         "date": "2026-02-11",
@@ -1439,10 +1439,6 @@
   "history": {
     "NAB.AX": [
       {
-        "date": "2026-06-23",
-        "value": 38.33000183105469
-      },
-      {
         "date": "2026-06-24",
         "value": 38.75
       },
@@ -1705,13 +1701,13 @@
       {
         "date": "2026-09-23",
         "value": 38.65999984741211
+      },
+      {
+        "date": "2026-09-24",
+        "value": 38.150001525878906
       }
     ],
     "WES.AX": [
-      {
-        "date": "2026-06-23",
-        "value": 86.44000244140625
-      },
       {
         "date": "2026-06-24",
         "value": 87.2699966430664
@@ -1975,13 +1971,13 @@
       {
         "date": "2026-09-23",
         "value": 73.79000091552734
+      },
+      {
+        "date": "2026-09-24",
+        "value": 73.87000274658203
       }
     ],
     "COL.AX": [
-      {
-        "date": "2026-06-23",
-        "value": 23.860000610351562
-      },
       {
         "date": "2026-06-24",
         "value": 23.770000457763672
@@ -2245,16 +2241,16 @@
       {
         "date": "2026-09-23",
         "value": 22.889999389648438
+      },
+      {
+        "date": "2026-09-24",
+        "value": 22.899999618530273
       }
     ]
   },
   "history90d": {
     "NAB.AX": [
       {
-        "date": "2026-06-23",
-        "value": 38.33000183105469
-      },
-      {
         "date": "2026-06-24",
         "value": 38.75
       },
@@ -2517,13 +2513,13 @@
       {
         "date": "2026-09-23",
         "value": 38.65999984741211
+      },
+      {
+        "date": "2026-09-24",
+        "value": 38.150001525878906
       }
     ],
     "WES.AX": [
-      {
-        "date": "2026-06-23",
-        "value": 86.44000244140625
-      },
       {
         "date": "2026-06-24",
         "value": 87.2699966430664
@@ -2787,13 +2783,13 @@
       {
         "date": "2026-09-23",
         "value": 73.79000091552734
+      },
+      {
+        "date": "2026-09-24",
+        "value": 73.87000274658203
       }
     ],
     "COL.AX": [
-      {
-        "date": "2026-06-23",
-        "value": 23.860000610351562
-      },
       {
         "date": "2026-06-24",
         "value": 23.770000457763672
@@ -3057,6 +3053,10 @@
       {
         "date": "2026-09-23",
         "value": 22.889999389648438
+      },
+      {
+        "date": "2026-09-24",
+        "value": 22.899999618530273
       }
     ]
   },
@@ -4108,11 +4108,11 @@
       },
       {
         "date": "2026-09-20",
-        "value": 38.65999984741211
+        "value": 38.150001525878906
       },
       {
-        "date": "2026-09-23",
-        "value": 38.65999984741211
+        "date": "2026-09-24",
+        "value": 38.150001525878906
       }
     ],
     "WES.AX": [
@@ -5162,11 +5162,11 @@
       },
       {
         "date": "2026-09-20",
-        "value": 73.79000091552734
+        "value": 73.87000274658203
       },
       {
-        "date": "2026-09-23",
-        "value": 73.79000091552734
+        "date": "2026-09-24",
+        "value": 73.87000274658203
       }
     ],
     "COL.AX": [
@@ -6216,22 +6216,22 @@
       },
       {
         "date": "2026-09-20",
-        "value": 22.889999389648438
+        "value": 22.899999618530273
       },
       {
-        "date": "2026-09-23",
-        "value": 22.889999389648438
+        "date": "2026-09-24",
+        "value": 22.899999618530273
       }
     ]
   },
   "sharePricePipeline": {
     "provider": "yahoo-finance-chart-v8",
-    "fetchedAt": "2026-09-23T11:43:12.617Z",
+    "fetchedAt": "2026-09-24T11:51:55.728Z",
     "watchlist": "scripts/config/finance-watchlist.json",
     "perSymbol": {
       "NAB.AX": {
         "yahoo": "NAB.AX",
-        "fetchedAt": "2026-09-23T11:43:12.617Z",
+        "fetchedAt": "2026-09-24T11:51:55.728Z",
         "quoteOk": true,
         "history90dOk": true,
         "history5yOk": true,
@@ -6239,7 +6239,7 @@
       },
       "WES.AX": {
         "yahoo": "WES.AX",
-        "fetchedAt": "2026-09-23T11:43:12.617Z",
+        "fetchedAt": "2026-09-24T11:51:55.728Z",
         "quoteOk": true,
         "history90dOk": true,
         "history5yOk": true,
@@ -6247,7 +6247,7 @@
       },
       "COL.AX": {
         "yahoo": "COL.AX",
-        "fetchedAt": "2026-09-23T11:43:12.617Z",
+        "fetchedAt": "2026-09-24T11:51:55.728Z",
         "quoteOk": true,
         "history90dOk": true,
         "history5yOk": true,
