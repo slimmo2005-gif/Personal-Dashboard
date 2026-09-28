@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27T12:07:46.354Z",
+  "updatedAt": "2026-09-28T14:02:13.935Z",
   "reddit": [
     {
       "id": "r1",
@@ -26,81 +26,81 @@
   ],
   "rss": [
     {
-      "id": "rss:https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal",
-      "url": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Inside Yemen's front-line city as Houthis battle for control",
+      "url": "https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-09-27T07:44:11.000Z",
+      "publishedAt": "2026-09-27T21:16:31.000Z",
       "topics": [
         "rss"
       ]
     },
     {
-      "id": "rss:https://www.bbc.co.uk/news/articles/cm5y5nj8ejj8o?at_medium=RSS&amp;at_campaign=rss",
-      "title": "'Scourge' of abuse must be rooted out, says Pope, during Lourdes visit",
-      "url": "https://www.bbc.co.uk/news/articles/cm5y5nj8ejj8o?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.co.uk/news/articles/cxp84g2ly1mjo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Trump-Xi summit: What wasn't said might matter the most",
+      "url": "https://www.bbc.co.uk/news/articles/cxp84g2ly1mjo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-09-27T11:38:03.000Z",
+      "publishedAt": "2026-09-28T07:52:23.000Z",
+      "topics": [
+        "rss"
+      ]
+    },
+    {
+      "id": "rss:https://www.bbc.co.uk/news/articles/cw8d3z5y7958o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Mexico's Pacific coast braces for Hurricane Polo",
+      "url": "https://www.bbc.co.uk/news/articles/cw8d3z5y7958o?at_medium=RSS&amp;at_campaign=rss",
+      "source": "BBC World",
+      "publishedAt": "2026-09-28T11:05:49.000Z",
+      "topics": [
+        "rss"
+      ]
+    },
+    {
+      "id": "rss:https://www.bbc.co.uk/news/articles/c6n9wrqpj4yqo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Plan for controversial Sydney data centre scrapped after push-back",
+      "url": "https://www.bbc.co.uk/news/articles/c6n9wrqpj4yqo?at_medium=RSS&amp;at_campaign=rss",
+      "source": "BBC World",
+      "publishedAt": "2026-09-28T12:47:09.000Z",
       "topics": [
         "rss"
       ]
     },
     {
       "id": "rss:https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Two mass shootings in South Africa leave 27 dead",
+      "title": "Two mass shootings in South Africa leave 28 dead",
       "url": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-09-27T10:00:36.000Z",
+      "publishedAt": "2026-09-28T06:46:03.000Z",
       "topics": [
         "rss"
       ]
     },
     {
-      "id": "rss:https://www.bbc.co.uk/news/articles/c6pwl9g9ne1lo?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Killer Christa Pike is to be executed within days but her defence say she's a victim too",
-      "url": "https://www.bbc.co.uk/news/articles/c6pwl9g9ne1lo?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.co.uk/news/articles/ckpq0g7z5pjjo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Embattled Serbian president resigns, paving way for early elections",
+      "url": "https://www.bbc.co.uk/news/articles/ckpq0g7z5pjjo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-09-26T23:04:08.000Z",
-      "topics": [
-        "rss"
-      ]
-    },
-    {
-      "id": "rss:https://www.bbc.co.uk/news/articles/c3grvv7p81lqo?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Four killed in helicopter crash near Montreal",
-      "url": "https://www.bbc.co.uk/news/articles/c3grvv7p81lqo?at_medium=RSS&amp;at_campaign=rss",
-      "source": "BBC World",
-      "publishedAt": "2026-09-27T02:43:10.000Z",
+      "publishedAt": "2026-09-27T20:04:21.000Z",
       "topics": [
         "rss"
       ]
     },
     {
       "id": "rss:https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Nor'easter brings flooding as New York and New Jersey declare emergency",
+      "title": "One dead as nor'easter storm pummels New York and New Jersey",
       "url": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-09-27T04:23:09.000Z",
+      "publishedAt": "2026-09-27T23:37:26.000Z",
       "topics": [
         "rss"
       ]
     },
     {
-      "id": "rss:https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&amp;at_campaign=rss",
-      "title": "British national among six dead in building explosion close to Acropolis in Athens",
-      "url": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.co.uk/news/articles/c620lrw2xr12o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Venezuela releases dozens of political prisoners as election calls grow",
+      "url": "https://www.bbc.co.uk/news/articles/c620lrw2xr12o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-09-26T12:47:25.000Z",
-      "topics": [
-        "rss"
-      ]
-    },
-    {
-      "id": "rss:https://www.bbc.co.uk/news/articles/cqm2mm4y5dkko?at_medium=RSS&amp;at_campaign=rss",
-      "title": "German town bans 'stumbling stone' memorials to Nazi victims",
-      "url": "https://www.bbc.co.uk/news/articles/cqm2mm4y5dkko?at_medium=RSS&amp;at_campaign=rss",
-      "source": "BBC World",
-      "publishedAt": "2026-09-26T15:48:51.000Z",
+      "publishedAt": "2026-09-27T15:56:25.000Z",
       "topics": [
         "rss"
       ]
