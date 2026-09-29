@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T14:02:13.935Z",
+  "updatedAt": "2026-09-29T12:58:31.033Z",
   "reddit": [
     {
       "id": "r1",
@@ -26,81 +26,81 @@
   ],
   "rss": [
     {
-      "id": "rss:https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Inside Yemen's front-line city as Houthis battle for control",
-      "url": "https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&amp;at_campaign=rss",
+      "title": "OpenAI scraps rollout of new model over safety concerns",
+      "url": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-09-27T21:16:31.000Z",
+      "publishedAt": "2026-09-29T09:14:13.000Z",
       "topics": [
         "rss"
       ]
     },
     {
-      "id": "rss:https://www.bbc.co.uk/news/articles/cxp84g2ly1mjo?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Trump-Xi summit: What wasn't said might matter the most",
-      "url": "https://www.bbc.co.uk/news/articles/cxp84g2ly1mjo?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.co.uk/news/articles/cwm2qmjgy93do?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Spain announces new housing measures after protests over 87-year-old woman's eviction",
+      "url": "https://www.bbc.co.uk/news/articles/cwm2qmjgy93do?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-09-28T07:52:23.000Z",
+      "publishedAt": "2026-09-29T12:14:50.000Z",
+      "topics": [
+        "rss"
+      ]
+    },
+    {
+      "id": "rss:https://www.bbc.co.uk/news/articles/cq5yj1835y1wo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Argentina threatens legal action against UK over Falkland Islands oil exploration",
+      "url": "https://www.bbc.co.uk/news/articles/cq5yj1835y1wo?at_medium=RSS&amp;at_campaign=rss",
+      "source": "BBC World",
+      "publishedAt": "2026-09-29T03:50:40.000Z",
+      "topics": [
+        "rss"
+      ]
+    },
+    {
+      "id": "rss:https://www.bbc.co.uk/news/articles/c5wyzrm0n74ro?at_medium=RSS&amp;at_campaign=rss",
+      "title": "US prosecutors reopen case of alleged gang rape at Cornell University",
+      "url": "https://www.bbc.co.uk/news/articles/c5wyzrm0n74ro?at_medium=RSS&amp;at_campaign=rss",
+      "source": "BBC World",
+      "publishedAt": "2026-09-29T00:38:23.000Z",
       "topics": [
         "rss"
       ]
     },
     {
       "id": "rss:https://www.bbc.co.uk/news/articles/cw8d3z5y7958o?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Mexico's Pacific coast braces for Hurricane Polo",
+      "title": "Hurricane Polo makes landfall on Mexico's Pacific coast",
       "url": "https://www.bbc.co.uk/news/articles/cw8d3z5y7958o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-09-28T11:05:49.000Z",
+      "publishedAt": "2026-09-29T10:34:53.000Z",
       "topics": [
         "rss"
       ]
     },
     {
-      "id": "rss:https://www.bbc.co.uk/news/articles/c6n9wrqpj4yqo?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Plan for controversial Sydney data centre scrapped after push-back",
-      "url": "https://www.bbc.co.uk/news/articles/c6n9wrqpj4yqo?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.co.uk/news/articles/cred737qdv2no?at_medium=RSS&amp;at_campaign=rss",
+      "title": "New York Times executive fatally shot by elderly in-laws, police say",
+      "url": "https://www.bbc.co.uk/news/articles/cred737qdv2no?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-09-28T12:47:09.000Z",
+      "publishedAt": "2026-09-29T04:06:43.000Z",
       "topics": [
         "rss"
       ]
     },
     {
-      "id": "rss:https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Two mass shootings in South Africa leave 28 dead",
-      "url": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.co.uk/news/articles/ckj06542e5neo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Malaysia begins controversial repatriation of asylum seekers to Myanmar",
+      "url": "https://www.bbc.co.uk/news/articles/ckj06542e5neo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-09-28T06:46:03.000Z",
+      "publishedAt": "2026-09-29T06:06:20.000Z",
       "topics": [
         "rss"
       ]
     },
     {
-      "id": "rss:https://www.bbc.co.uk/news/articles/ckpq0g7z5pjjo?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Embattled Serbian president resigns, paving way for early elections",
-      "url": "https://www.bbc.co.uk/news/articles/ckpq0g7z5pjjo?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.co.uk/news/articles/cm1j43y146d2o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "US ban on Canadian alcohol and dairy comes into effect as trade war drags on",
+      "url": "https://www.bbc.co.uk/news/articles/cm1j43y146d2o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-09-27T20:04:21.000Z",
-      "topics": [
-        "rss"
-      ]
-    },
-    {
-      "id": "rss:https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&amp;at_campaign=rss",
-      "title": "One dead as nor'easter storm pummels New York and New Jersey",
-      "url": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&amp;at_campaign=rss",
-      "source": "BBC World",
-      "publishedAt": "2026-09-27T23:37:26.000Z",
-      "topics": [
-        "rss"
-      ]
-    },
-    {
-      "id": "rss:https://www.bbc.co.uk/news/articles/c620lrw2xr12o?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Venezuela releases dozens of political prisoners as election calls grow",
-      "url": "https://www.bbc.co.uk/news/articles/c620lrw2xr12o?at_medium=RSS&amp;at_campaign=rss",
-      "source": "BBC World",
-      "publishedAt": "2026-09-27T15:56:25.000Z",
+      "publishedAt": "2026-09-29T04:10:33.000Z",
       "topics": [
         "rss"
       ]
