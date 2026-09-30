@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T12:58:31.033Z",
+  "updatedAt": "2026-09-30T12:40:45.350Z",
   "reddit": [
     {
       "id": "r1",
@@ -26,81 +26,81 @@
   ],
   "rss": [
     {
-      "id": "rss:https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&amp;at_campaign=rss",
-      "title": "OpenAI scraps rollout of new model over safety concerns",
-      "url": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.co.uk/news/articles/ckjw5jx2l393o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Russia launches largest attack on Ukraine energy infrastructure since spring",
+      "url": "https://www.bbc.co.uk/news/articles/ckjw5jx2l393o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-09-29T09:14:13.000Z",
+      "publishedAt": "2026-09-30T11:47:27.000Z",
       "topics": [
         "rss"
       ]
     },
     {
-      "id": "rss:https://www.bbc.co.uk/news/articles/cwm2qmjgy93do?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Spain announces new housing measures after protests over 87-year-old woman's eviction",
-      "url": "https://www.bbc.co.uk/news/articles/cwm2qmjgy93do?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.co.uk/news/articles/c65ym1dyn92mo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Last UK and US troops leave Iraq as anti-Islamic State mission ends",
+      "url": "https://www.bbc.co.uk/news/articles/c65ym1dyn92mo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-09-29T12:14:50.000Z",
+      "publishedAt": "2026-09-30T11:36:23.000Z",
       "topics": [
         "rss"
       ]
     },
     {
-      "id": "rss:https://www.bbc.co.uk/news/articles/cq5yj1835y1wo?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Argentina threatens legal action against UK over Falkland Islands oil exploration",
-      "url": "https://www.bbc.co.uk/news/articles/cq5yj1835y1wo?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.co.uk/news/articles/cmrergq3j7lgo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Chinese AI tool told researchers how to make bioweapons",
+      "url": "https://www.bbc.co.uk/news/articles/cmrergq3j7lgo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-09-29T03:50:40.000Z",
+      "publishedAt": "2026-09-29T23:15:29.000Z",
       "topics": [
         "rss"
       ]
     },
     {
-      "id": "rss:https://www.bbc.co.uk/news/articles/c5wyzrm0n74ro?at_medium=RSS&amp;at_campaign=rss",
-      "title": "US prosecutors reopen case of alleged gang rape at Cornell University",
-      "url": "https://www.bbc.co.uk/news/articles/c5wyzrm0n74ro?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.co.uk/news/videos/c8n5d0e0n6wdo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Girl has multiple surgeries to control infections after strike in Gaza",
+      "url": "https://www.bbc.co.uk/news/videos/c8n5d0e0n6wdo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-09-29T00:38:23.000Z",
+      "publishedAt": "2026-09-30T05:02:50.000Z",
       "topics": [
         "rss"
       ]
     },
     {
-      "id": "rss:https://www.bbc.co.uk/news/articles/cw8d3z5y7958o?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Hurricane Polo makes landfall on Mexico's Pacific coast",
-      "url": "https://www.bbc.co.uk/news/articles/cw8d3z5y7958o?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.co.uk/news/articles/c3x2z9k1zdn4o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "US actor Chad Lowe 'heartbroken' by death of daughter Fiona aged 13",
+      "url": "https://www.bbc.co.uk/news/articles/c3x2z9k1zdn4o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-09-29T10:34:53.000Z",
+      "publishedAt": "2026-09-30T08:59:38.000Z",
       "topics": [
         "rss"
       ]
     },
     {
-      "id": "rss:https://www.bbc.co.uk/news/articles/cred737qdv2no?at_medium=RSS&amp;at_campaign=rss",
-      "title": "New York Times executive fatally shot by elderly in-laws, police say",
-      "url": "https://www.bbc.co.uk/news/articles/cred737qdv2no?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.co.uk/news/articles/cw14d37446d8o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Six Flags shuts down X2 rollercoaster after more than 100 allege brain injuries",
+      "url": "https://www.bbc.co.uk/news/articles/cw14d37446d8o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-09-29T04:06:43.000Z",
+      "publishedAt": "2026-09-29T22:33:13.000Z",
       "topics": [
         "rss"
       ]
     },
     {
-      "id": "rss:https://www.bbc.co.uk/news/articles/ckj06542e5neo?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Malaysia begins controversial repatriation of asylum seekers to Myanmar",
-      "url": "https://www.bbc.co.uk/news/articles/ckj06542e5neo?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.co.uk/news/articles/cwj3dkvpm4e7o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "South Korea demands apology from Pyongyang for landmine blasts that injured three",
+      "url": "https://www.bbc.co.uk/news/articles/cwj3dkvpm4e7o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-09-29T06:06:20.000Z",
+      "publishedAt": "2026-09-30T05:24:52.000Z",
       "topics": [
         "rss"
       ]
     },
     {
-      "id": "rss:https://www.bbc.co.uk/news/articles/cm1j43y146d2o?at_medium=RSS&amp;at_campaign=rss",
-      "title": "US ban on Canadian alcohol and dairy comes into effect as trade war drags on",
-      "url": "https://www.bbc.co.uk/news/articles/cm1j43y146d2o?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.co.uk/news/articles/cxm2qmpy57ggo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Botswana condemned for slaughtering elephants for independence celebrations",
+      "url": "https://www.bbc.co.uk/news/articles/cxm2qmpy57ggo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-09-29T04:10:33.000Z",
+      "publishedAt": "2026-09-30T12:06:28.000Z",
       "topics": [
         "rss"
       ]
