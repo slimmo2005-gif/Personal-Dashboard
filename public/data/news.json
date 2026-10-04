@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T11:43:50.448Z",
+  "updatedAt": "2026-10-04T12:26:51.504Z",
   "reddit": [
     {
       "id": "r1",
@@ -26,81 +26,81 @@
   ],
   "rss": [
     {
-      "id": "rss:https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
-      "url": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
+      "url": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-10-03T11:20:21.000Z",
+      "publishedAt": "2026-10-04T12:09:04.000Z",
       "topics": [
         "rss"
       ]
     },
     {
-      "id": "rss:https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Russia strikes second major bridge in Kyiv, mayor says",
-      "url": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.co.uk/news/articles/cxly4nym57q9o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Australia investigating Flydubai co-pilot's links to country",
+      "url": "https://www.bbc.co.uk/news/articles/cxly4nym57q9o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-10-03T09:53:16.000Z",
+      "publishedAt": "2026-10-04T06:19:17.000Z",
+      "topics": [
+        "rss"
+      ]
+    },
+    {
+      "id": "rss:https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Tennessee prison chief to resign after Christa Pike's failed execution",
+      "url": "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&amp;at_campaign=rss",
+      "source": "BBC World",
+      "publishedAt": "2026-10-03T17:48:42.000Z",
+      "topics": [
+        "rss"
+      ]
+    },
+    {
+      "id": "rss:https://www.bbc.co.uk/news/articles/ckly0leelnz4o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Cornell president says university 'must do better' after frat house rape allegations",
+      "url": "https://www.bbc.co.uk/news/articles/ckly0leelnz4o?at_medium=RSS&amp;at_campaign=rss",
+      "source": "BBC World",
+      "publishedAt": "2026-10-04T00:11:25.000Z",
       "topics": [
         "rss"
       ]
     },
     {
       "id": "rss:https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Protesters across Spain demand action over housing crisis",
+      "title": "'Anger in the streets': Tens of thousands protest in Spain over housing crisis",
       "url": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-10-03T11:35:48.000Z",
+      "publishedAt": "2026-10-04T03:42:15.000Z",
       "topics": [
         "rss"
       ]
     },
     {
-      "id": "rss:https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&amp;at_campaign=rss",
-      "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
-      "url": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.co.uk/news/articles/c6wyz0r2n0djo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "What to know about Brazil's election pitting Lula against Flávio Bolsonaro",
+      "url": "https://www.bbc.co.uk/news/articles/c6wyz0r2n0djo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-10-03T04:38:31.000Z",
+      "publishedAt": "2026-10-04T11:03:20.000Z",
       "topics": [
         "rss"
       ]
     },
     {
-      "id": "rss:https://www.bbc.co.uk/news/articles/c3kgqw7zvz47o?at_medium=RSS&amp;at_campaign=rss",
-      "title": "US murderer Christa Pike unconscious and on ventilator after failed execution, lawyers say",
-      "url": "https://www.bbc.co.uk/news/articles/c3kgqw7zvz47o?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.co.uk/news/articles/cme3x85013llo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Debris found from plane that went missing off US coast",
+      "url": "https://www.bbc.co.uk/news/articles/cme3x85013llo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-10-02T20:32:07.000Z",
+      "publishedAt": "2026-10-04T03:49:06.000Z",
       "topics": [
         "rss"
       ]
     },
     {
-      "id": "rss:https://www.bbc.co.uk/news/articles/cjwyzyqvx1zxo?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Women given shorts at Oktoberfest to prevent upskirting",
-      "url": "https://www.bbc.co.uk/news/articles/cjwyzyqvx1zxo?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.co.uk/news/articles/c6qjnlk4r2jjo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "US father and son arrested after 'gas station heroin' deaths",
+      "url": "https://www.bbc.co.uk/news/articles/c6qjnlk4r2jjo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-10-02T23:16:03.000Z",
-      "topics": [
-        "rss"
-      ]
-    },
-    {
-      "id": "rss:https://www.bbc.co.uk/sport/golf/articles/cmy0rn425k4xo?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Kim wins Asian Games gold to secure military exemption",
-      "url": "https://www.bbc.co.uk/sport/golf/articles/cmy0rn425k4xo?at_medium=RSS&amp;at_campaign=rss",
-      "source": "BBC World",
-      "publishedAt": "2026-10-03T08:51:14.000Z",
-      "topics": [
-        "rss"
-      ]
-    },
-    {
-      "id": "rss:https://www.bbc.co.uk/news/articles/c6d095ygggv1o?at_medium=RSS&amp;at_campaign=rss",
-      "title": "UK-Iranian dual national bailed after RAF Fairford incident arrest",
-      "url": "https://www.bbc.co.uk/news/articles/c6d095ygggv1o?at_medium=RSS&amp;at_campaign=rss",
-      "source": "BBC World",
-      "publishedAt": "2026-10-03T10:58:51.000Z",
+      "publishedAt": "2026-10-03T22:39:06.000Z",
       "topics": [
         "rss"
       ]
