@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T10:49:55.521Z",
+  "updatedAt": "2026-10-18T11:13:38.929Z",
   "reddit": [
     {
       "id": "r1",
@@ -26,81 +26,81 @@
   ],
   "rss": [
     {
+      "id": "rss:https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
+      "url": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&amp;at_campaign=rss",
+      "source": "BBC World",
+      "publishedAt": "2026-10-18T10:53:54.000Z",
+      "topics": [
+        "rss"
+      ]
+    },
+    {
+      "id": "rss:https://www.bbc.co.uk/news/articles/cmy4xnyyg1lyo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat",
+      "url": "https://www.bbc.co.uk/news/articles/cmy4xnyyg1lyo?at_medium=RSS&amp;at_campaign=rss",
+      "source": "BBC World",
+      "publishedAt": "2026-10-17T22:09:50.000Z",
+      "topics": [
+        "rss"
+      ]
+    },
+    {
+      "id": "rss:https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "A wave of homemade, synthetic drugs sweeps US and deepens crisis",
+      "url": "https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&amp;at_campaign=rss",
+      "source": "BBC World",
+      "publishedAt": "2026-10-18T05:04:31.000Z",
+      "topics": [
+        "rss"
+      ]
+    },
+    {
+      "id": "rss:https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "European diplomats attacked by Israeli settlers in West Bank",
+      "url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&amp;at_campaign=rss",
+      "source": "BBC World",
+      "publishedAt": "2026-10-17T23:52:38.000Z",
+      "topics": [
+        "rss"
+      ]
+    },
+    {
+      "id": "rss:https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Several dead or injured in major fire at Canada military base",
+      "url": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&amp;at_campaign=rss",
+      "source": "BBC World",
+      "publishedAt": "2026-10-18T08:52:41.000Z",
+      "topics": [
+        "rss"
+      ]
+    },
+    {
       "id": "rss:https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&amp;at_campaign=rss",
       "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
       "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-10-17T09:42:13.000Z",
+      "publishedAt": "2026-10-18T01:10:25.000Z",
       "topics": [
         "rss"
       ]
     },
     {
-      "id": "rss:https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
-      "url": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Anti-government protesters battle with police in Albania",
+      "url": "https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-10-17T09:58:17.000Z",
+      "publishedAt": "2026-10-17T20:53:00.000Z",
       "topics": [
         "rss"
       ]
     },
     {
-      "id": "rss:https://www.bbc.co.uk/news/articles/c3kgqjkzw29wo?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Three men jailed for 158 years each for murdering Australian and US surfers in Mexico",
-      "url": "https://www.bbc.co.uk/news/articles/c3kgqjkzw29wo?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.co.uk/news/articles/c820vwq7qg2ko?at_medium=RSS&amp;at_campaign=rss",
+      "title": "At least 17 dead in crush at Hindu festival event in India",
+      "url": "https://www.bbc.co.uk/news/articles/c820vwq7qg2ko?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-10-17T03:11:10.000Z",
-      "topics": [
-        "rss"
-      ]
-    },
-    {
-      "id": "rss:https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role",
-      "url": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&amp;at_campaign=rss",
-      "source": "BBC World",
-      "publishedAt": "2026-10-16T16:00:30.000Z",
-      "topics": [
-        "rss"
-      ]
-    },
-    {
-      "id": "rss:https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Brazil sees record fall in Amazon deforestation as key election looms",
-      "url": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&amp;at_campaign=rss",
-      "source": "BBC World",
-      "publishedAt": "2026-10-17T02:33:09.000Z",
-      "topics": [
-        "rss"
-      ]
-    },
-    {
-      "id": "rss:https://www.bbc.co.uk/news/articles/c32l4ekpvzl8o?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Katie Zacharia leaving White House role less than five days into job",
-      "url": "https://www.bbc.co.uk/news/articles/c32l4ekpvzl8o?at_medium=RSS&amp;at_campaign=rss",
-      "source": "BBC World",
-      "publishedAt": "2026-10-17T09:14:10.000Z",
-      "topics": [
-        "rss"
-      ]
-    },
-    {
-      "id": "rss:https://www.bbc.co.uk/news/articles/c61m4zkx47vlo?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Rare pink diamond goes on display in France 100 years after amateur heist",
-      "url": "https://www.bbc.co.uk/news/articles/c61m4zkx47vlo?at_medium=RSS&amp;at_campaign=rss",
-      "source": "BBC World",
-      "publishedAt": "2026-10-17T10:46:41.000Z",
-      "topics": [
-        "rss"
-      ]
-    },
-    {
-      "id": "rss:https://www.bbc.co.uk/news/articles/cwly3zd1r45ro?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Actress Selma Blair says she 'did not intend to harm anyone' in plane altercation",
-      "url": "https://www.bbc.co.uk/news/articles/cwly3zd1r45ro?at_medium=RSS&amp;at_campaign=rss",
-      "source": "BBC World",
-      "publishedAt": "2026-10-17T01:55:45.000Z",
+      "publishedAt": "2026-10-17T19:19:16.000Z",
       "topics": [
         "rss"
       ]
