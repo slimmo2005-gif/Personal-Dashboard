@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T11:07:57.423Z",
+  "updatedAt": "2026-10-25T11:37:50.637Z",
   "reddit": [
     {
       "id": "r1",
@@ -26,81 +26,81 @@
   ],
   "rss": [
     {
+      "id": "rss:https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "More than 1,300 arrested as clashes follow another day of mass protests across France",
+      "url": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&amp;at_campaign=rss",
+      "source": "BBC World",
+      "publishedAt": "2026-10-25T10:38:15.000Z",
+      "topics": [
+        "rss"
+      ]
+    },
+    {
+      "id": "rss:https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Israel to close West Bank crossings on election day as crackdown escalates",
+      "url": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&amp;at_campaign=rss",
+      "source": "BBC World",
+      "publishedAt": "2026-10-25T05:15:52.000Z",
+      "topics": [
+        "rss"
+      ]
+    },
+    {
+      "id": "rss:https://www.bbc.co.uk/news/articles/cxp8g21j4648o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Voters in Brazil head to polls as Lula goes up against Bolsonaro's son",
+      "url": "https://www.bbc.co.uk/news/articles/cxp8g21j4648o?at_medium=RSS&amp;at_campaign=rss",
+      "source": "BBC World",
+      "publishedAt": "2026-10-25T11:00:26.000Z",
+      "topics": [
+        "rss"
+      ]
+    },
+    {
+      "id": "rss:https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
+      "url": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&amp;at_campaign=rss",
+      "source": "BBC World",
+      "publishedAt": "2026-10-25T09:00:00.000Z",
+      "topics": [
+        "rss"
+      ]
+    },
+    {
+      "id": "rss:https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Gunmen kill at least 10 villagers and loot shops in north-east Nigeria",
+      "url": "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do?at_medium=RSS&amp;at_campaign=rss",
+      "source": "BBC World",
+      "publishedAt": "2026-10-25T03:20:16.000Z",
+      "topics": [
+        "rss"
+      ]
+    },
+    {
       "id": "rss:https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat",
+      "title": "Man arrested after fire at Hitler's mountaintop Eagle's Nest retreat",
       "url": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-10-24T10:22:34.000Z",
+      "publishedAt": "2026-10-24T15:21:44.000Z",
       "topics": [
         "rss"
       ]
     },
     {
-      "id": "rss:https://www.bbc.co.uk/news/articles/crgj9ndwvj9jo?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Father who killed Oregon school gunman describes anguish over children he couldn't save",
-      "url": "https://www.bbc.co.uk/news/articles/crgj9ndwvj9jo?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.co.uk/news/articles/cm1dwzvn6227o?at_medium=RSS&amp;at_campaign=rss",
+      "title": "Vanessa Trump says she is cancer-free six months after revealing diagnosis",
+      "url": "https://www.bbc.co.uk/news/articles/cm1dwzvn6227o?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-10-23T22:47:07.000Z",
+      "publishedAt": "2026-10-24T19:12:51.000Z",
       "topics": [
         "rss"
       ]
     },
     {
-      "id": "rss:https://www.bbc.co.uk/news/articles/cm1dwz311476o?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Student movement takes Serbia's Vučić to the wire in neck-and-neck election",
-      "url": "https://www.bbc.co.uk/news/articles/cm1dwz311476o?at_medium=RSS&amp;at_campaign=rss",
+      "id": "rss:https://www.bbc.co.uk/news/articles/c8ly097zw1xwo?at_medium=RSS&amp;at_campaign=rss",
+      "title": "El Salvador president says bodies found in Haiti are not those of hostages",
+      "url": "https://www.bbc.co.uk/news/articles/c8ly097zw1xwo?at_medium=RSS&amp;at_campaign=rss",
       "source": "BBC World",
-      "publishedAt": "2026-10-23T23:08:23.000Z",
-      "topics": [
-        "rss"
-      ]
-    },
-    {
-      "id": "rss:https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&amp;at_campaign=rss",
-      "title": "White House lifts tariffs on some Canadian goods as midterm elections loom",
-      "url": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&amp;at_campaign=rss",
-      "source": "BBC World",
-      "publishedAt": "2026-10-24T00:36:47.000Z",
-      "topics": [
-        "rss"
-      ]
-    },
-    {
-      "id": "rss:https://www.bbc.co.uk/news/articles/c670pr1ryxyno?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Australian MP's condition improves after alleged car attack",
-      "url": "https://www.bbc.co.uk/news/articles/c670pr1ryxyno?at_medium=RSS&amp;at_campaign=rss",
-      "source": "BBC World",
-      "publishedAt": "2026-10-24T01:55:15.000Z",
-      "topics": [
-        "rss"
-      ]
-    },
-    {
-      "id": "rss:https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Woman, 65, becomes second patient to die of Ebola in Kenya",
-      "url": "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&amp;at_campaign=rss",
-      "source": "BBC World",
-      "publishedAt": "2026-10-24T09:46:53.000Z",
-      "topics": [
-        "rss"
-      ]
-    },
-    {
-      "id": "rss:https://www.bbc.co.uk/news/articles/c317kxyknwp2o?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Seven missing after multi-storey building collapses in Kenya's capital",
-      "url": "https://www.bbc.co.uk/news/articles/c317kxyknwp2o?at_medium=RSS&amp;at_campaign=rss",
-      "source": "BBC World",
-      "publishedAt": "2026-10-24T09:44:01.000Z",
-      "topics": [
-        "rss"
-      ]
-    },
-    {
-      "id": "rss:https://www.bbc.co.uk/news/articles/c678pv4krx37o?at_medium=RSS&amp;at_campaign=rss",
-      "title": "Trump administration sues to block certification of upcoming Alaska election",
-      "url": "https://www.bbc.co.uk/news/articles/c678pv4krx37o?at_medium=RSS&amp;at_campaign=rss",
-      "source": "BBC World",
-      "publishedAt": "2026-10-23T18:49:14.000Z",
+      "publishedAt": "2026-10-25T10:55:33.000Z",
       "topics": [
         "rss"
       ]
